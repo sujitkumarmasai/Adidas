@@ -674,6 +674,230 @@
        
 
     }
+],
+
+
+
+"mens_best":[
+
+    {
+        "id":1,
+        "title":"ERREX MULTI PRIMEGREEN HYBRID INSULATED JACKET",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹10 999.00",
+        "pn":10999,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/5a057be0900044d7a572ad2b00153c46_9366/Terrex_Multi_Primegreen_Hybrid_Insulated_Jacket_Green_GU6486_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/798d110f08fb4adab3e1ad2b00154268_9366/Terrex_Multi_Primegreen_Hybrid_Insulated_Jacket_Green_GU6486_23_hover_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2010b7ccabc24fd18215ad2b00154920_9366/Terrex_Multi_Primegreen_Hybrid_Insulated_Jacket_Green_GU6486_25_model.jpg"],
+        "discription_head":"AN INSULATED JACKET MADE FOR BEING ACTIVE.",
+        "discription":"Staying comfortable on the trail is easy when you have the right layers. Add this adidas Terrex hybrid jacket to your backpack when you need warmth and ventilation in one. Its hybrid, body-mapped design lets your body breathe and vent where it needs it most. AEROREADY manages sweat to keep you feeling dry. Quilted synthetic fill seals in heat when you finally stop moving.",
+        "details":[
+            "Slim fit",
+            "Full zip with hood",
+            "100% recycled polyester fleece",
+            "Sleeve and body overlay: 100% recycled polyester ripstop",
+            "Side zip pockets",
+            "Elastic cuffs and hem",
+            "Fleece",
+            "Primegreen",
+            "Color: Legend Earth",
+            "Product code: GU6486"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Men","Bangladesh"],
+        "rating":"4.6",
+        "comfort":"4.4",
+        "quality":"4.5",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":2,
+        "title":"BSC INSULATED HOODED JACKET",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹3 500.00",
+        "pn":4800,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d10f2dab3269452383fdab7600eb76d0_9366/BSC_Insulated_Hooded_Jacket_Blue_FT2538_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ebacc805279d40be83b3ab7600eb84ea_9366/BSC_Insulated_Hooded_Jacket_Blue_FT2538_22_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1a5ae6e4592c462aab30ab7600eb9055_9366/BSC_Insulated_Hooded_Jacket_Blue_FT2538_23_hover_model.jpg"],
+        "discription_head":"AN INSULATED JACKET FOR CITY LIVING.",
+        "discription":"Stay warm while you keep pace with the city. This adidas insulated jacket adapts outdoor tech for city living. Lightweight synthetic insulation adds warmth without bulk. A drawcord hood and elastic cuffs seal out the cold. Recycled materials mean it feels good on all levels.",
+        "details":[
+            "Slim fit",
+            "Full zip with drawcord-adjustable hood",
+            "Shell: 100% recycled polyester",
+            "Padding: 100% polyester",
+            "Front zip pockets",
+            "Elastic cuffs",
+            "Lined",
+            "Plain weave",
+            "Primegreen",
+            "Color: Royal Blue",
+            "Product code: FT2538"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "3 N","Men","Vietnam"],
+        "rating":"4.5",
+        "comfort":"4.2",
+        "quality":"4.2",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":3,
+        "title":"FACE COVER - NOT FOR MEDICAL USE",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹999.00",
+        "pn":999,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/87ff2c0e492347f890bead4400ec5ad7_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4698_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/092e45c653774ac89872ad4400ec61ce_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4698_22_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2a54ffd49de641578edfad4400ec6808_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4698_23_model.jpg"],
+        "discription_head":"LIMIT THE SPREAD WITH THIS FACE COVERING.",
+        "discription":"The spirit of sport goes beyond style. It's the spirit of community and strength that builds a team. Be a team player and help stop the spread in this adidas face covering. The flexible material keeps you comfortable and allows for easy breathing.",
+        "details":[
+            "Main: 93% recycled polyester, 7% elastane spacer",
+            "Inner lining: 92% recycled polyester, 8% elastane mesh",
+            "Not for medical use",
+            "Spacer",
+            "Color: Black / Blue Bird / White",
+            "Product code: HC4698"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "3 N","Men","Vietnam"],
+        "rating":"4.5",
+        "comfort":"4.6",
+        "quality":"4.6"
+       
+
+    },
+    {
+        "id":4,
+        "title":"ADILETTE SLIDES",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹3 599.00",
+        "pn":3599,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9e4850c6019841138e38a7fa00de8937_9366/Adilette_Slides_Black_280647_01_standard.jpg",
+            "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/7cdc9fc00bbb41f6b2bfab730133167f_d98c/Adilette_Slides_Black_280647_video.mp4",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/43ff07ffb8174bed9c79a46c00ca16b4_9366/Adilette_Slides_Black_280647_02_standard_hover.jpg"],
+        "discription_head":"EVERYDAY SLIDES WITH HERITAGE STYLE.",
+        "discription":"The Adilette debuted in 1970 as a shower slide for the German national football team during the world's biggest match in Mexico before being officially released back in '72. It's been a style mainstay of adidas ever since. These slides stay true to the original look with a contoured footbed and 3-Stripes across the bandage upper.",
+        "details":[
+            "Regular fit",
+            "Slip-on design",
+            "PU-coated synthetic bandage upper",
+            "Quick-dry lining",
+            "Contoured footbed",
+            "Polyurethane outsole",
+            "Color: Core Black / White / Core Black",
+            "Product code: 280647"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","Men","Italy"],
+        "rating":"4.1",
+        "comfort":"4.4",
+        "quality":"4.4",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":5,
+        "title":"OWN THE RUN LONG TIGHTS",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹1 799.50",
+        "pn":4800,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b901a88e42844ec5aa1daa9e00ff664f_9366/Own_the_Run_Long_Tights_Black_ED9288_01_laydown.jpg",
+            "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/c0d536dfe97a46a29f25ac1500f278ae_d98c/Own_the_Run_Long_Tights_Black_ED9288_video.mp4",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/22126689c6704b25b89faa9e00ff5963_9366/Own_the_Run_Long_Tights_Black_ED9288_02_laydown_hover.jpg"],
+        "discription_head":"RUNNING TIGHTS WITH A SECURE FIT",
+        "discription":"The streets are quiet and your neighbourhood is still asleep. You slide into these adidas running tights and slip out the door to welcome the day. Moisture-absorbing fabric helps you stay dry and comfortable when the sun finally offers its warmth.",
+        "details":[
+            "Tight fit",
+            "Elastic waist with drawcord",
+            "55% recycled polyester, 28% polyester, 17% elastane doubleknit",
+            "Moisture-absorbing AEROREADY",
+            "Long running tights",
+            "Sweat-guard zip pocket",
+            "360 degrees of reflectivity",
+            "Doubleknit",
+            "Color: Black",
+            "Product code: ED9288"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Men","India"],
+        "rating":"4.7",
+        "comfort":"4.4",
+        "quality":"4.5",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":6,
+        "title":"SATURDAY1/2 TGT",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹3 999.00",
+        "pn":3999,
+        "gallary":["",
+            "",
+            ""],
+        "discription_head":"HELP PROTECT YOUR COMMUNITY IN THIS FACE COVERING.",
+        "discription":"Through the hard times and the good, we pull together as a community. Be a team player and help stop the spread in this adidas face covering. The soft, flexible fabric allows for easy breathing. It's reusable too, so you can cut down on waste by tossing it in the wash.",
+        "details":[
+            "Interlock",
+            "Color: Black",
+            "Product code: H58572"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Men","Indonesia"
+        ]
+
+    },
+    {
+        "id":7,
+        "title":"RUNNER TEE",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹2 499.00",
+        "pn":2499,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/8c3f5445517340e8bc02ad8100ffd3f6_9366/Runner_Tee_Burgundy_H25050_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2a2a7df5a1c943568227ad8100ffdbf0_9366/Runner_Tee_Burgundy_H25050_23_hover_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/73ad357103e648c8bff3ad8100ffe690_9366/Runner_Tee_Burgundy_H25050_25_model.jpg"],
+        "discription_head":"A COMFORTABLE RUNNING TEE MADE WITH RECYCLED MATERIALS.",
+        "discription":"Every time you throw on the adidas Runner Tee and head out the door, you're signalling your commitment to yourself and to the health of the planet. The soft and comfortable t-shirt is made of recycled materials, one step adidas is making toward creating products with less environmental impact. We know it's just a first step toward a sustainable future. But that's where the journey begins.",
+        "details":[
+            "Crewneck",
+            "100% recycled polyester",
+            "Soft and breathable",
+            "Reflective running t-shirt",
+            "Jacquard",
+            "This product has been made with Primegreen, a series of high-performance recycled materials using no virgin polyester.",
+            "Color: Victory Crimson",
+            "Product code: H25050"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Men","Vietnam"],
+        "rating":"4.8",
+        "comfort":"4.5",
+        "quality":"4.5",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    }
+
 ]
 }
 
