@@ -1,5 +1,5 @@
 {
-    "data":[
+    "womens_original":[
     {
         "id":1,
         "title":"ADICOLOR CLASSICS TREFOIL TEE",
@@ -10,7 +10,9 @@
         "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/5723c82bd8f04f18b247ac29010d28b4_9366/Adicolor_Classics_Trefoil_Tee_White_GN2899_25_model.jpg",
             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/00bac092fc8047c798beac29010d1aa7_9366/Adicolor_Classics_Trefoil_Tee_White_GN2899_23_hover_model.jpg",
             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/707f2410d5ce41c5a90bac29010d68cf_9366/Adicolor_Classics_Trefoil_Tee_White_GN2899_01_laydown.jpg"],
-        "discription":"ADICOLOR CLASSICS TREFOIL TEE AN EVERYDAY T-SHIRT WITH AUTHENTIC STYLE. The brand with the 3-Stripes strives to be better. To be the best. Created to be truly original, the Adicolor collection keeps heritage its heart. The iconic Trefoil logo celebrates that energy front and centre on this adidas classic t-shirt. Soft single jersey feels soft against your skin. Our cotton products support sustainable cotton farming. This is part of our ambition to end plastic waste.",
+        
+           "discription_head":"AN EVERYDAY T-SHIRT WITH AUTHENTIC STYLE.",
+            "discription":" The brand with the 3-Stripes strives to be better. To be the best. Created to be truly original, the Adicolor collection keeps heritage its heart. The iconic Trefoil logo celebrates that energy front and centre on this adidas classic t-shirt. Soft single jersey feels soft against your skin. Our cotton products support sustainable cotton farming. This is part of our ambition to end plastic waste.",
         "details":[
             "Regular fit",
             "Ribbed crewneck",
@@ -41,7 +43,8 @@
         "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/558d70a93a794d0eb698abc900cccd2d_9366/Superstar_Shoes_White_FX7484_01_standard.jpg",
             "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/b70d5a04af74464b8f71abc80080e48f_d98c/Superstar_Shoes_White_FX7484_video.mp4",
             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bead9a615b5a46d1a659abc90135ec1b_9366/Superstar_Shoes_White_FX7484_010_hover_standard.jpg"],
-        "discription":"SUPERSTAR SHOES ICONIC SHELL-TOE TRAINERS WITH HITS OF GOLD. Go ahead. Put on your gold hoops and your fanciest jumpsuit. Tonight you're gonna sparkle. adidas Superstar Shoes have been a symbol of self expression for over 50 years. This pair carries on the tradition with golden details that are anything but dull. So lace up in glitzy glam and let your true self shine.",
+       "discription_head":"ICONIC SHELL-TOE TRAINERS WITH HITS OF GOLD.",
+            "discription":"Go ahead. Put on your gold hoops and your fanciest jumpsuit. Tonight you're gonna sparkle. adidas Superstar Shoes have been a symbol of self expression for over 50 years. This pair carries on the tradition with golden details that are anything but dull. So lace up in glitzy glam and let your true self shine.",
         "details":[
             "Narrow fit",
             "Lace closure",
@@ -72,7 +75,8 @@
         "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/08965b3d5dd9457e9a8aac840039672b_9366/Adicolor_Classics_Trefoil_Tee_Black_GN2896_21_model.jpg",
             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/158f225e5503453c8ad4ac84003975f1_9366/Adicolor_Classics_Trefoil_Tee_Black_GN2896_23_hover_model.jpg",
             "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/aeeb714769e8499c808fac8400398463_9366/Adicolor_Classics_Trefoil_Tee_Black_GN2896_25_model.jpg"],
-        "discription":"ADICOLOR CLASSICS TREFOIL TEE AN EVERYDAY T-SHIRT WITH AUTHENTIC STYLE. The brand with the 3-Stripes strives to be better. To be the best. Created to be truly original, the Adicolor collection keeps heritage its heart. The iconic Trefoil logo celebrates that energy front and centre on this adidas classic t-shirt. Soft single jersey feels soft against your skin. Our cotton products support sustainable cotton farming. This is part of our ambition to end plastic waste.",
+       "discription_head":"AN EVERYDAY T-SHIRT WITH AUTHENTIC STYLE.",
+            "discription":"The brand with the 3-Stripes strives to be better. To be the best. Created to be truly original, the Adicolor collection keeps heritage its heart. The iconic Trefoil logo celebrates that energy front and centre on this adidas classic t-shirt. Soft single jersey feels soft against your skin. Our cotton products support sustainable cotton farming. This is part of our ambition to end plastic waste.",
         "details":[
             "Regular fit",
            "Ribbed crewneck",
@@ -103,7 +107,8 @@
         "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/3c4067b13da442efba23ad1e01567a30_9366/adidas_Superstar_x_LEGO(r)_Shoes_White_GW5270_01_standard.jpg",
             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/4d7e482f90034f0eab93ad1e0156458a_9366/adidas_Superstar_x_LEGO(r)_Shoes_White_GW5270_011_hover_standard.jpg",
             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9e384ea3caed49b48940ad1e01574cb5_9366/adidas_Superstar_x_LEGO(r)_Shoes_White_GW5270_012_hover_standard.jpg"],
-        "discription":"ADIDAS SUPERSTAR X LEGO® SHOES EXCLUSIVE SHOES FROM THE LEGO® SUPERSTAR COLLECTION. Two iconic looks meet as the LEGO Group brings its instantly recognisable aesthetics to the classic Superstar. Featuring custom-made shell toe, serrated 3-Stripes and heel, carefully crafted to replicate the LEGO® brick in black and white. Available only at adidas online and in-store. An exclusive style you won't find anywhere else.",
+       "discription_head":"EXCLUSIVE SHOES FROM THE LEGO® SUPERSTAR COLLECTION.",
+            "discription":"Two iconic looks meet as the LEGO Group brings its instantly recognisable aesthetics to the classic Superstar. Featuring custom-made shell toe, serrated 3-Stripes and heel, carefully crafted to replicate the LEGO® brick in black and white. Available only at adidas online and in-store. An exclusive style you won't find anywhere else.",
         "details":[
             "Synthetic upper",
             "Rubber outsole",
@@ -130,7 +135,8 @@
         "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/3dd18d13c9204434be24ac7101510a46_9366/Adicolor_Classics_3-Stripes_Tee_White_GN2913_21_model.jpg",
             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/68435418df8d4eca9a1dac71015117ee_9366/Adicolor_Classics_3-Stripes_Tee_White_GN2913_23_hover_model.jpg",
             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2508587fee674f9ca19cac710151259b_9366/Adicolor_Classics_3-Stripes_Tee_White_GN2913_25_model.jpg"],
-        "discription":"ADICOLOR CLASSICS 3-STRIPES TEE A SOFT COTTON TEE FOR SERIOUS CHILLING.Just because you're hanging with your crew all weekend doesn't mean you're going to skip out on style. Pull on this adidas t-shirt and rock an authentic 3-Stripes vibe. Wherever the day takes you, keep it casual and classic. Our cotton products support sustainable cotton farming. This is part of our ambition to end plastic waste",
+          "discription_head":"A SOFT COTTON TEE FOR SERIOUS CHILLING.",
+            "discription":"Just because you're hanging with your crew all weekend doesn't mean you're going to skip out on style. Pull on this adidas t-shirt and rock an authentic 3-Stripes vibe. Wherever the day takes you, keep it casual and classic. Our cotton products support sustainable cotton farming. This is part of our ambition to end plastic waste",
         "details":[
             "Regular fit",
             "Ribbed crewneck",
@@ -160,7 +166,8 @@
         "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/92ce19bcac5e4ac99d76ad580157b956_9366/ZX_5K_BOOST_Shoes_White_GV7704_01_standard.jpg",
             "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/bd565f6815924e598198add0011d6b9f_d98c/ZX_5K_BOOST_Shoes_White_GV7704_video.mp4",
             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b74ad585ba3e4d4393a9ad5800f33401_9366/ZX_5K_BOOST_Shoes_White_GV7704_012_hover_standard.jpg"],
-        "discription":"ZX 5K BOOST SHOES SLEEK, FUTURISTIC TRAINERS MADE FOR EVERYDAY COMFORT. Ready for the future? You are in these adidas ZX 5K BOOST shoes. Bringing the best of modern technology into the ever-evolving ZX franchise, they charge up your stride and let your style shine. BOOST cushioning takes care of the comfort side of things. Translucent and reflective details keep your feet fresh.",
+          "discription_head":"SLEEK, FUTURISTIC TRAINERS MADE FOR EVERYDAY COMFORT.",
+            "discription":" Ready for the future? You are in these adidas ZX 5K BOOST shoes. Bringing the best of modern technology into the ever-evolving ZX franchise, they charge up your stride and let your style shine. BOOST cushioning takes care of the comfort side of things. Translucent and reflective details keep your feet fresh.",
         "details":[
             "Lace closure",
             "Mesh upper with suede overlays",
@@ -184,7 +191,8 @@
         "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bf5dde70265042df9cecacf5014f59d1_9366/Primeblue_SST_Track_Jacket_Pink_H34593_21_model.jpg",
             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2957bfa5c7584239a23bacf5014f60cc_9366/Primeblue_SST_Track_Jacket_Pink_H34593_23_hover_model.jpg",
             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/6a1be03bf76b4d42a5daacf5014f6894_9366/Primeblue_SST_Track_Jacket_Pink_H34593_25_model.jpg"],
-        "discription":"PRIMEBLUE SST TRACK JACKET AN ICONIC TRACK JACKET MADE WITH RECYCLED MATERIALS A track jacket like never before. Sure, this may look just like iconic adidas gear from the archive, but this Primeblue SST Track Top symbolises change. The iconic silhouette is made with Parley Ocean Plastic that's made from upcycled plastic waste collected from ocean shores. It's a statement style that's good for the planet too. Stand up, stand out and join adidas' commitment to help end plastic waste.",
+        "discription_head":"AN ICONIC TRACK JACKET MADE WITH RECYCLED MATERIALS",
+            "discription":"A track jacket like never before. Sure, this may look just like iconic adidas gear from the archive, but this Primeblue SST Track Top symbolises change. The iconic silhouette is made with Parley Ocean Plastic that's made from upcycled plastic waste collected from ocean shores. It's a statement style that's good for the planet too. Stand up, stand out and join adidas' commitment to help end plastic waste.",
         "details":[
             "Regular fit",
             "Full zip with ribbed collar",
@@ -205,5 +213,469 @@
         "length":"perfect"
 
     }
+],
+
+
+
+
+"Womens_best":[
+    {
+        "id":1,
+        "title":"MARATHON 20 SHORTS",
+        "subtitle":"womens original",
+        "status":"new",
+        "price":"₹900.00",
+        "pn":900,
+        "gallary":["https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f64ab8b501c644ca8069ac71011d23e2_9366/GK5265_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/6bb90673d8974a28b1e0ac71011d313c_9366/Marathon_20_Shorts_Black_GK5265_23_hover_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/64de34d96ec74cfc91ccac71011d868b_9366/Marathon_20_Shorts_Black_GK5265_25_model.jpg"],
+        
+          "discription_head":"BREATHABLE RUNNING SHORTS MADE TO GO THE DISTANCE",
+            "discription":"Meet the workhorse of workout wear. Soft and breathable, these adidas running shorts are sporty and super comfortable. AEROREADY helps keep moisture off your skin and your mind on your run. Now you're ready for anything.",
+        "details":[
+            "Regular fit",
+           " Elastic waist with drawcord",
+            "100% recycled polyester plain weave",
+            "Breathable mesh",
+            "Key pocket",
+            "Inner mesh briefs",
+            "360-degree reflectivity",
+            "Plain weave",
+            "Color: Black / White",
+            "Product code: GK5265"
+                  ],
+        "style":["https://photorankmedia-a.akamaihd.net/media/v/c/7/vc726z4/normal.jpg"],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Women","Vietnam"],
+        "rating":"4.8",
+        "comfort":"4.4",
+        "quality":"4.6",
+        "fit":"perfect",
+        "length":"perfect"
+
+    },
+    {
+        "id":2,
+        "title":"MARATHON 20 SHORTS",
+        "subtitle":"performence",
+        "status":"new",
+        "price":"₹900.00",
+        "pn":7999,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b631eafb381f488aae95acfc014bed8a_9366/Marathon_20_Shorts_Red_H31065_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/aa963d272d544525a27bacfc014bf263_9366/Marathon_20_Shorts_Red_H31065_23_hover_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f9d839bfe1db4540b469acfc014bfb7e_9366/Marathon_20_Shorts_Red_H31065_25_model.jpg"],
+        "discription_head":"BREATHABLE RUNNING SHORTS MADE TO GO THE DISTANCE.",
+       "discription":"Meet the workhorse of workout wear. Soft and breathable, these adidas running shorts are sporty and super comfortable. AEROREADY helps keep moisture off your skin and your mind on your run. Now you're ready for anything",
+        "details":[
+            "Regular fit",
+            "Elastic waist with drawcord",
+            "100% recycled polyester plain weave",
+            "Breathable mesh",
+            "Key pocket",
+            "Inner mesh briefs",
+            "360-degree reflectivity",
+            "Plain weave",
+            "Color: App Solar Red / White",
+            "Product code: H31065"
+                  ],
+                "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","Women","vietnam"],
+        "rating":"4.8",
+        "comfort":"4.4",
+        "quality":"4.6",
+        "fit":"perfect",
+        "length":"perfect"
+
+    },
+    {
+        "id":3,
+        "title":"M20 EGLE WOMEN IN POWER SHORTS",
+        "subtitle":"womens original",
+        "status":"new",
+        "price":"₹1 000.00",
+        "pn":1000,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b9921762cd1547758c90acb700f1a6b0_9366/M20_Egle_Women_in_Power_Shorts_Black_GV0701_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ffcccae42ae7422ba287acb700f1adbb_9366/M20_Egle_Women_in_Power_Shorts_Black_GV0701_23_hover_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/827a46c5b760453c90feacb700f1b39c_9366/M20_Egle_Women_in_Power_Shorts_Black_GV0701_25_model.jpg"],
+        "discription_head":"IGHTWEIGHT RUNNING SHORTS THAT GO THE DISTANCE.",
+        "discription":"Run for yourself. For the feeling, the time alone with your thoughts or the strength you gain with each step. Do it in these adidas shorts. They're made with moisture-managing AEROREADY that wicks sweat and keeps you fresh. Flashing a print from London-based artist Egle Zvirblyte? That's a little treat to yourself. This product is made with recycled content as part of our ambition to end plastic waste",
+        "details":[
+            "Elastic waist with drawcord",
+            "100% recycled polyester plain weave",
+            "Soft and breathable",
+            "Jersey inner briefs",
+            "Egle Zvirblyte artwork",
+            "360 reflectivity",
+            "Plain weave",
+            "Color: Black",
+            "Product code: GV0701"
+                  ],
+        "style":["https://photorankmedia-a.akamaihd.net/media/s/o/v/sov2az4/normal.jpg","https://z3photorankmedia-a.akamaihd.net/media/o/q/8/oq826z4/normal.jpg"],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Women","Vietnam"],
+        "rating":"5.0",
+        "comfort":"4.8",
+        "quality":"4.8",
+        "fit":"perfect",
+        "length":"perfect"
+
+    },
+    {
+        "id":4,
+        "title":"MARATHON 20 TWO-IN-ONE SHORTS", 
+        "subtitle":"womens original",
+        "status":"new",
+        "price":"₹13 999.00",
+        "pn":13999,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/fe06c3082600484cb46aab7d00d7176b_9366/Marathon_20_Two-in-One_Shorts_Green_GC6652_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9c054fd9e5374a82a7bdab7d00d72471_9366/Marathon_20_Two-in-One_Shorts_Green_GC6652_22_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0cd1a5e1f09d40aebd9aab7d00d73254_9366/Marathon_20_Two-in-One_Shorts_Green_GC6652_23_hover_model.jpg"],
+        "discription_head":"RUNNING SHORTS WITH INNER TIGHTS.",
+        "discription":"ADIDAS SUPERSTAR X LEGO® SHOES EXCLUSIVE SHOES FROM THE LEGO® SUPERSTAR COLLECTION. Two iconic looks meet as the LEGO Group brings its instantly recognisable aesthetics to the classic Superstar. Featuring custom-made shell toe, serrated 3-Stripes and heel, carefully crafted to replicate the LEGO® brick in black and white. Available only at adidas online and in-store. An exclusive style you won't find anywhere else.",
+        "details":[
+            "Drawcord on elastic waist",
+            "100% recycled polyester doubleknit",
+            "Stay-put running shorts",
+            "Moisture-absorbing AEROREADY",
+            "Built-in tights",
+            "Key pockets",
+            "Reflective details",
+            "Doubleknit",
+            "Color: Legacy Blue",
+            "Product code: GC6652"
+                  ],
+        "style":["https://z3photorankmedia-a.akamaihd.net/media/e/i/2/ei2uj25/normal.jpg"],
+        "value":["aadidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","unisex","Indonesia"],
+        "rating":"4.6",
+        "comfort":"4.3",
+        "quality":"4.4",
+        "fit":"perfect",
+        "length":"perfect"
+
+    },
+    {
+        "id":5,
+        "title":"MARATHON 20 TWO-IN-ONE SHORTS",
+        "subtitle":"womens original",
+        "status":"new",
+        "price":"₹1 250.00",
+        "pn":1250,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/72527925b68c4b3e8c20ab6501016f98_9366/Marathon_20_Two-in-One_Shorts_Black_FS9845_21_model.jpg",
+            "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/d03bcfd0fd8147b4b6c6ab6500f8bdb4_d98c/Marathon_20_Two-in-One_Shorts_Black_FS9845_video.mp4",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/76195043555849cf9084ab6501017d1e_9366/Marathon_20_Two-in-One_Shorts_Black_FS9845_22_model.jpg"],
+        "discription_head":"RUNNING SHORTS WITH INNER TIGHTS",
+        "discription":"Over long distances, comfortable gear is the difference between a great run and a forgettable one. These adidas two-in-one shorts are made of lightweight and breathable fabric. Built-in tights help prevent chafing. So you can get up tomorrow and do it all again",
+        "details":[
+            "Drawcord on elastic waist",
+            "100% recycled polyester doubleknit",
+            "Stay-put running shorts",
+            "Moisture-absorbing AEROREADY",
+            "Built-in tights",
+            "Key pockets",
+            "Reflective details",
+            "Doubleknit",
+            "Color: Black",
+            "Product code: FS9845"
+                  ],
+        "style":["https://z3photorankmedia-a.akamaihd.net/media/e/i/2/ei2uj25/normal.jpg"],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Women","Indonesia"],
+        "rating":"4.6",
+        "comfort":"4.3",
+        "quality":"4.4",
+        "fit":"perfect",
+        "length":"perfect"
+
+    },
+    {
+        "id":6,
+        "title":"OWN THE RUN HOODED WIND JACKET",
+        "subtitle":"womens original",
+        "status":"new",
+        "price":"₹15 999.00",
+        "pn":15999,
+        "gallary":["https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/90bd90bf510040808d53ad52012c2f53_9366/Own_the_Run_Hooded_Wind_Jacket_Blue_H31033_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/098455c9e9374748a285ad52012c3786_9366/Own_the_Run_Hooded_Wind_Jacket_Blue_H31033_23_hover_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b670874462484766a356ad52012c4200_9366/Own_the_Run_Hooded_Wind_Jacket_Blue_H31033_25_model.jpg"],
+        "discription_head":"A WATER-REPELLENT JACKET FOR RUNNING IN WIND AND LIGHT RAIN",
+        "discription":"Don't think about the weather. The shifting temperatures might be out of your control, but your comfort levels aren't. The key is layering, specifically with this adidas running jacket. It has a water-repellent finish so you can keep running through stiff breezes and light drizzle. Zip up, flip the hood and get out there.",
+        "details":[
+            "Regular fit",
+            "Full zip with drawcord hood",
+            "100% recycled polyester dobby",
+            "PFC-free water-repellent finish",
+            "Front pockets with one sweat-guard pocket",
+            "Reflective details",
+            "Dobby",
+            "Color: Victory Blue",
+            "Product code: H31033"
+                  ],
+        "style":["https://photorankmedia-a.akamaihd.net/media/5/e/i/5eiu535/normal.jpg"],          
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Women","Vietnam"],
+            "rating":"4.7",
+            "comfort":"4.3",
+            "quality":"4.4",
+            "fit":"perfect",
+            "length":"perfect"
+
+    },
+    {
+        "id":7,
+        "title":"ADIZERO MARATHON JACKET",
+        "subtitle":"womens original",
+        "status":"new",
+        "price":"₹4 800.00",
+        "pn":4800,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9d73318308b34f61b7e3ad1900bc8214_9366/Adizero_Marathon_Jacket_White_GT9742_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/47efa043c7a0401c8d2bad1900bc8983_9366/Adizero_Marathon_Jacket_White_GT9742_22_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/8b1b714977c64943bab9ad1900bc903e_9366/Adizero_Marathon_Jacket_White_GT9742_23_hover_model.jpg"],
+        "discription_head":"A FULL-ZIP JACKET THAT LETS YOU RUN WITHOUT DISTRACTIONS.",
+        "discription":"There's a lot to think about while you run. Some things? You shouldn't have to. Like the weather. Or your clothes. Lightweight and breathable, this adidas jacket protects against wind and rain and lets you move freely. Zip it on and go. Your goals are within reach. This product is made with recycled content as part of our ambition to end plastic waste.",
+        "details":[
+            "Slim fit",
+            "Full zip with bungee-adjustable hood",
+            "100% nylon ripstop",
+            "Lightweight",
+            "Reflective details",
+            "Side pockets",
+            "Chest pocket with zip",
+            "Bungee-adjustable hem",
+            "Elastic cuffs",
+            "Color: White / Grey",
+            "Product code: GT9742"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Women","Vietnam"],
+        "rating":"4.3",
+        "comfort":"4.3",
+        "quality":"4.3",
+        "fit":"perfect",
+        "length":"perfect"
+
+    }
+],
+
+"mens_original": [
+    {
+        "id":1,
+        "title":"FACE COVER - NOT FOR MEDICAL USE",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹999.00",
+        "pn":999,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/40ce08a5289b4d548a98ad4400ed508c_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4701_44_detail.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/dca753b347ae4aa2b92bad4400ed1e89_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4701_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/3c05d4c22a7d4c16bd0ead4400ed267f_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4701_22_model.jpg"],
+        "discription_head":"HELP PROTECT YOUR COMMUNITY IN THIS FACE COVERING.",
+        "discription":"Through the hard times and the good, we pull together as a community. Be a team player and help stop the spread in this adidas face covering. The soft, flexible fabric allows for easy breathing. It's reusable too, so you can cut down on waste by tossing it in the wash.",
+        "details":[
+            "Main: 93% recycled polyester, 7% elastane spacer",
+            "Inner lining: 92% recycled polyester, 8% elastane mesh",
+            "Not for medical use",
+            "Spacer",
+            "Color: Black / Multicolor / Multicolor",
+            "Product code: HC4701"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "3 N","Men","China"],
+        "rating":"3.4",
+        "comfort":"3.3",
+        "quality":"3.3"
+       
+
+    },
+    {
+        "id":2,
+        "title":"FACE COVERS - NOT FOR MEDICAL USE",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹999.00",
+        "pn":4800,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e4b975c9fd1c4f7ebd2cadac009d8b7c_9366/Face_Covers_-_Not_For_Medical_Use_Black_HC4703_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/03d46f9cd04545098515adac009daa3d_9366/Face_Covers_-_Not_For_Medical_Use_Black_HC4703_22_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a72549b2494a44d0858aadac009dc6bc_9366/Face_Covers_-_Not_For_Medical_Use_Black_HC4703_23_hover_model.jpg"],
+        "discription_head":"HELP PROTECT YOUR COMMUNITY IN THIS FACE COVERING.",
+        "discription":"Through the hard times and the good, we pull together as a community. Be a team player and help stop the spread in this adidas face covering. The soft, flexible fabric allows for easy breathing. It's reusable too, so you can cut down on waste by tossing it in the wash.",
+        "details":[
+            "Main: 93% recycled polyester, 7% elastane spacer",
+            "Inner lining: 92% recycled polyester, 8% elastane mesh",
+            "Not for medical use",
+            "Three to a pack",
+            "Spacer",
+            "Color: Black / Black / Black",
+            "Product code: HC4703"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "3 N","Men","Vietnam"],
+        "rating":"4.4",
+        "comfort":"4.4",
+        "quality":"3.3"
+       
+
+    },
+    {
+        "id":3,
+        "title":"FACE COVER - NOT FOR MEDICAL USE",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹999.00",
+        "pn":999,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/87ff2c0e492347f890bead4400ec5ad7_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4698_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/092e45c653774ac89872ad4400ec61ce_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4698_22_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2a54ffd49de641578edfad4400ec6808_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4698_23_model.jpg"],
+        "discription_head":"LIMIT THE SPREAD WITH THIS FACE COVERING.",
+        "discription":"The spirit of sport goes beyond style. It's the spirit of community and strength that builds a team. Be a team player and help stop the spread in this adidas face covering. The flexible material keeps you comfortable and allows for easy breathing.",
+        "details":[
+            "Main: 93% recycled polyester, 7% elastane spacer",
+            "Inner lining: 92% recycled polyester, 8% elastane mesh",
+            "Not for medical use",
+            "Spacer",
+            "Color: Black / Blue Bird / White",
+            "Product code: HC4698"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "3 N","Men","Vietnam"],
+        "rating":"4.5",
+        "comfort":"4.6",
+        "quality":"4.6"
+       
+
+    },
+    {
+        "id":4,
+        "title":"ADILETTE SLIDES",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹3 599.00",
+        "pn":3599,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9e4850c6019841138e38a7fa00de8937_9366/Adilette_Slides_Black_280647_01_standard.jpg",
+            "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/7cdc9fc00bbb41f6b2bfab730133167f_d98c/Adilette_Slides_Black_280647_video.mp4",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/43ff07ffb8174bed9c79a46c00ca16b4_9366/Adilette_Slides_Black_280647_02_standard_hover.jpg"],
+        "discription_head":"EVERYDAY SLIDES WITH HERITAGE STYLE.",
+        "discription":"The Adilette debuted in 1970 as a shower slide for the German national football team during the world's biggest match in Mexico before being officially released back in '72. It's been a style mainstay of adidas ever since. These slides stay true to the original look with a contoured footbed and 3-Stripes across the bandage upper.",
+        "details":[
+            "Regular fit",
+            "Slip-on design",
+            "PU-coated synthetic bandage upper",
+            "Quick-dry lining",
+            "Contoured footbed",
+            "Polyurethane outsole",
+            "Color: Core Black / White / Core Black",
+            "Product code: 280647"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","Men","Italy"],
+        "rating":"4.5",
+        "comfort":"4.1",
+        "quality":"4.4"
+       
+
+    },
+
+    {
+        "id":5,
+        "title":"FACE COVER MEDIUM/LARGE - NOT FOR MEDICAL USE",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":" ₹999.00",
+        "pn":999,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ec3e348f976e4bd5b725acfa015bba58_9366/Face_Cover_Medium-Large_-_Not_For_Medical_Use_Green_H59842_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/069991221e824c9f92c8acfa015bc090_9366/Face_Cover_Medium-Large_-_Not_For_Medical_Use_Green_H59842_22_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f12ed569c9d24db2b582acfa015bc80e_9366/Face_Cover_Medium-Large_-_Not_For_Medical_Use_Green_H59842_23_model.jpg"],
+        "discription_head":"A WASHABLE FACE COVER MADE OF STRETCHY SPACER FABRIC.",
+        "discription":"Phone, keys, wallet and face mask. The new leaving-the-house essential, this adidas face cover makes it easy to practise healthy habits. The seamless inner panel and stretchy ear loops keep you comfortable every day.",
+        "details":[
+            "Elastic ear loops",
+            "Shell: 93% recycled polyester, 7% elastane spacer",
+            "Lining: 92% recycled polyester, 8% elastane mesh",
+            "Seamless inner panel",
+            "Spacer",
+            "Color: Wild Pine / Crew Navy / Black",
+            "Product code: H59842"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "3 N","Men","China"],
+        "rating":"3.7",
+        "comfort":"3.6",
+        "quality":"3.6"
+       
+
+    },
+
+    {
+        "id":6,
+        "title":"BSC INSULATED HOODED JACKET",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹3 500.00",
+        "pn":3500,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d10f2dab3269452383fdab7600eb76d0_9366/BSC_Insulated_Hooded_Jacket_Blue_FT2538_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ebacc805279d40be83b3ab7600eb84ea_9366/BSC_Insulated_Hooded_Jacket_Blue_FT2538_22_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1a5ae6e4592c462aab30ab7600eb9055_9366/BSC_Insulated_Hooded_Jacket_Blue_FT2538_23_hover_model.jpg"],
+        "discription_head":"AN INSULATED JACKET FOR CITY LIVING",
+        "discription":"Stay warm while you keep pace with the city. This adidas insulated jacket adapts outdoor tech for city living. Lightweight synthetic insulation adds warmth without bulk. A drawcord hood and elastic cuffs seal out the cold. Recycled materials mean it feels good on all levels.",
+        "details":[
+            "Slim fit",
+            "Full zip with drawcord-adjustable hood",
+            "Shell: 100% recycled polyester",
+            "Padding: 100% polyester",
+            "Front zip pockets",
+            "Elastic cuffs",
+            "Lined",
+            "Plain weave",
+            "Primegreen",
+            "Color: Royal Blue",
+            "Product code: FT2538"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Men","Vietnam"],
+        "rating":"4.5",
+        "comfort":"4.2",
+        "quality":"4.2",
+        "fit":"perfect",
+        "length":"perfect"
+
+
+    },
+
+    {
+        "id":7,
+        "title":"TERREX MULTI PRIMEGREEN HYBRID INSULATED JACKET",
+        "subtitle":"Mens Original",
+        "status":"new",
+        "price":"₹10 999.00",
+        "pn":4800,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/5a057be0900044d7a572ad2b00153c46_9366/Terrex_Multi_Primegreen_Hybrid_Insulated_Jacket_Green_GU6486_21_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/798d110f08fb4adab3e1ad2b00154268_9366/Terrex_Multi_Primegreen_Hybrid_Insulated_Jacket_Green_GU6486_23_hover_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2010b7ccabc24fd18215ad2b00154920_9366/Terrex_Multi_Primegreen_Hybrid_Insulated_Jacket_Green_GU6486_25_model.jpg"],
+        "discription_head":"HELP PROTECT YOUR COMMUNITY IN THIS FACE COVERING.",
+        "discription":"Through the hard times and the good, we pull together as a community. Be a team player and help stop the spread in this adidas face covering. The soft, flexible fabric allows for easy breathing. It's reusable too, so you can cut down on waste by tossing it in the wash.",
+        "details":[
+            "Slim fit",
+            "Full zip with hood",
+            "100% recycled polyester fleece",
+            "Sleeve and body overlay: 100% recycled polyester ripstop",
+            "Side zip pockets",
+            "Elastic cuffs and hem",
+            "Fleece",
+            "Primegreen",
+            "Color: Legend Earth",
+            "Product code: GU6486"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "3 N","Men","Bangladesh"],
+        "rating":"4.6",
+        "comfort":"4.4",
+        "quality":"4.5",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    }
 ]
 }
+
+
+
