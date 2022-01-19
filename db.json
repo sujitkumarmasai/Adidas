@@ -1,5 +1,5 @@
 {
-    "womens_original":[
+    "womens":[
     {
         "id":1,
         "title":"ADICOLOR CLASSICS TREFOIL TEE",
@@ -212,15 +212,10 @@
         "fit":"perfect",
         "length":"perfect"
 
-    }
-],
+    },
 
-
-
-
-"Womens_best":[
     {
-        "id":1,
+        "id":8,
         "title":"MARATHON 20 SHORTS",
         "subtitle":"womens original",
         "status":"new",
@@ -255,7 +250,7 @@
 
     },
     {
-        "id":2,
+        "id":9,
         "title":"MARATHON 20 SHORTS",
         "subtitle":"performence",
         "status":"new",
@@ -288,7 +283,7 @@
 
     },
     {
-        "id":3,
+        "id":10,
         "title":"M20 EGLE WOMEN IN POWER SHORTS",
         "subtitle":"womens original",
         "status":"new",
@@ -321,7 +316,7 @@
 
     },
     {
-        "id":4,
+        "id":11,
         "title":"MARATHON 20 TWO-IN-ONE SHORTS", 
         "subtitle":"womens original",
         "status":"new",
@@ -355,7 +350,7 @@
 
     },
     {
-        "id":5,
+        "id":12,
         "title":"MARATHON 20 TWO-IN-ONE SHORTS",
         "subtitle":"womens original",
         "status":"new",
@@ -389,7 +384,7 @@
 
     },
     {
-        "id":6,
+        "id":13,
         "title":"OWN THE RUN HOODED WIND JACKET",
         "subtitle":"womens original",
         "status":"new",
@@ -422,7 +417,7 @@
 
     },
     {
-        "id":7,
+        "id":14,
         "title":"ADIZERO MARATHON JACKET",
         "subtitle":"womens original",
         "status":"new",
@@ -457,7 +452,7 @@
     }
 ],
 
-"mens_original": [
+"mens": [
     {
         "id":1,
         "title":"FACE COVER - NOT FOR MEDICAL USE",
@@ -673,15 +668,10 @@
         "length":"perfect"
        
 
-    }
-],
-
-
-
-"mens_best":[
+    },
 
     {
-        "id":1,
+        "id":8,
         "title":"ERREX MULTI PRIMEGREEN HYBRID INSULATED JACKET",
         "subtitle":"Performance",
         "status":"new",
@@ -715,7 +705,7 @@
 
     },
     {
-        "id":2,
+        "id":9,
         "title":"BSC INSULATED HOODED JACKET",
         "subtitle":"Performance",
         "status":"new",
@@ -750,7 +740,7 @@
 
     },
     {
-        "id":3,
+        "id":10,
         "title":"FACE COVER - NOT FOR MEDICAL USE",
         "subtitle":"Performance",
         "status":"new",
@@ -778,7 +768,7 @@
 
     },
     {
-        "id":4,
+        "id":11,
         "title":"ADILETTE SLIDES",
         "subtitle":"Performance",
         "status":"new",
@@ -810,7 +800,7 @@
 
     },
     {
-        "id":5,
+        "id":12,
         "title":"OWN THE RUN LONG TIGHTS",
         "subtitle":"Performance",
         "status":"new",
@@ -844,7 +834,7 @@
 
     },
     {
-        "id":6,
+        "id":13,
         "title":"SATURDAY1/2 TGT",
         "subtitle":"Performance",
         "status":"new",
@@ -866,7 +856,7 @@
 
     },
     {
-        "id":7,
+        "id":14,
         "title":"RUNNER TEE",
         "subtitle":"Performance",
         "status":"new",
