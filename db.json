@@ -888,6 +888,403 @@
 
     }
 
+],
+
+"kids":[
+    {
+        "id":1,
+        "title":"FORTARUN LACE RUNNING SHOES",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹3 219.50",
+        "pn":2319,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0ff109c77e38465a9917adb4016e87fe_9366/FortaRun_Lace_Running_Shoes_Black_H04112_01_standard.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bbdcd426ab30461a9c8fadb401721bdd_9366/FortaRun_Lace_Running_Shoes_Black_H04112_03_standard.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/51ff213e2cec4e4394a9adb40170603e_9366/FortaRun_Lace_Running_Shoes_Black_H04112_04_standard.jpg"],
+        "discription_head":"COMFORTABLE RUNNING SHOES WITH CLASSIC LACES",
+        "discription":"rying out for the track team may be years away, but there's plenty of running to do right now. These kids' adidas shoes have plush Cloudfoam cushioning to keep them comfortable as they sprint through the park or race down the street. A durable non-marking outsole stands up to hard-playing kids. This product is made with Primegreen, a series of high-performance recycled materials. 50% of the upper is recycled content.",
+        "details":[
+            "Regular fit",
+            "Lace closure",
+            "Textile upper",
+            "OrthoLite® sockliner",
+            "Cloudfoam EVA midsole",
+            "Non-marking rubber outsole",
+            "Textile lining",
+            "Primegreen",
+            "Color: Core Black / Cloud White / Violet Tone",
+            "Product code: H04112"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","Unisex","Myanmar"],
+        "rating":"4.5",
+        "comfort":"4.1",
+        "quality":"4.6",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":2,
+        "title":"EQ21 RUN SHOES",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹2 500.00",
+        "pn":2499,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/fb3c5953e3f444d18f9aac5300adae30_9366/EQ21_Run_Shoes_Blue_FX2253_01_standard.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/24ffcc67a8ef49eebc85ac5300adbad4_9366/EQ21_Run_Shoes_Blue_FX2253_02_standard_hover.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/7280ad06446a4424ad68ac5300adc01a_9366/EQ21_Run_Shoes_Blue_FX2253_03_standard.jpg"],
+        "discription_head":"LIGHTWEIGHT, CUSHIONED RUNNING SHOES FOR KIDS.",
+        "discription":"Running around the backyard. Climbing trees at the park. When the world is their gym, these kids' shoes keeps them comfortable. The flexible upper rides on Bounce, a lightweight midsole for dynamic movement. Stretchy laces make these trainers easy to slip on, even if they haven't learned about bunny loops. This product is made with Primegreen, a series of high-performance recycled materials. 50% of upper is recycled content. No virgin polyester. ",
+        "details":[
+            "Crewneck",
+            "100% recycled polyester",
+            "Soft and breathable",
+            "Reflective running t-shirt",
+            "Jacquard",
+            "This product has been made with Primegreen, a series of high-performance recycled materials using no virgin polyester.",
+            "Color: Victory Crimson",
+            "Product code: H25050"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","Unisex","Vietnam"],
+        "rating":"4.8",
+        "comfort":"4.5",
+        "quality":"4.5",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":3,
+        "title":"DURAMO SL SHOES",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹2 399.50",
+        "pn":2399,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/942d1f8babf3472ba576ad1200a2a541_9366/Duramo_SL_Shoes_Grey_GV9818_01_standard.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/fb9143ca5c4f4676a06fad1200a2ba05_9366/Duramo_SL_Shoes_Grey_GV9818_03_standard.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/fb0c4568a80048b29906ad1200a2c0d8_9366/Duramo_SL_Shoes_Grey_GV9818_04_standard.jpg"],
+        "discription_head":"KIDS' RUNNING SHOES FOR EVERY DAY.",
+        "discription":"It seems like kids are always on the move. For the future track star in your household, these running shoes deliver support and style. A breathable mesh upper and lightweight cushioning underfoot combine to keep their feet feeling cool and comfortable. The adidas 3-Stripes design completes the look. This product is made with recycled content as part of our ambition to end plastic waste. 20% of pieces used to make the upper are made with minimum 50% recycled content.",
+        "details":[
+            "Lace closure",
+           " Mesh upper with supportive no-sew overlays",
+           " Textile lining",
+           " Lightmotion cushioning",
+           " Cloudfoam midsole and soft neoprene heel",
+           " Adiwear outsole",
+           " Color: Grey Six / Solar Red / Carbon",
+           " Product code: GV9818"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Unisex","Indonesia"],
+        "rating":"4.7",
+        "comfort":"4.3",
+        "quality":"4.3",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":4,
+        "title":"FORTARUN LACE RUNNING SHOES",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹2 759.50",
+        "pn":2759.50,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0a39282886c942bbbceaae1f00636fe9_9366/FortaRun_Lace_Running_Shoes_Grey_GY2747_01_standard.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/52417d761a4b40588949ae19003a6583_9366/FortaRun_Lace_Running_Shoes_Grey_GY2747_02_standard_hover.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/48e55933b56f429eab40ae19003a65a7_9366/FortaRun_Lace_Running_Shoes_Grey_GY2747_03_standard.jpg"],
+        "discription_head":"COMFORTABLE RUNNING SHOES WITH CLASSIC LACES.",
+        "discription":"Trying out for the track team may be years away, but there's plenty of running to do right now. These kids' adidas shoes have plush Cloudfoam cushioning to keep them comfortable as they sprint through the park or race down the street. A durable non-marking outsole stands up to hard-playing kids. This product is made with Primegreen, a series of high-performance recycled materials. 50% of the upper is recycled content.",
+        "details":[
+            "Lace closure",
+            "Textile upper",
+            "OrthoLite® sockliner",
+            "Cloudfoam EVA midsole",
+            "Non-marking rubber outsole",
+            "Textile lining",
+            "Primegreen",
+            "Color: Halo Silver / Cloud White / Screaming Green",
+            "Product code: GY2747"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","Unisex","Myanmar"],
+        "rating":"4.5",
+        "comfort":"4.1",
+        "quality":"4.6",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":5,
+        "title":"FORTARUN LACE RUNNING SHOES",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹3 219.50",
+        "pn":219.50,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0ff109c77e38465a9917adb4016e87fe_9366/FortaRun_Lace_Running_Shoes_Black_H04112_01_standard.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/7044acf4c29749918256adb4016dc62f_9366/FortaRun_Lace_Running_Shoes_Black_H04112_02_standard_hover.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bbdcd426ab30461a9c8fadb401721bdd_9366/FortaRun_Lace_Running_Shoes_Black_H04112_03_standard.jpg"],
+        "discription_head":"COMFORTABLE RUNNING SHOES WITH CLASSIC LACES.",
+        "discription":"Trying out for the track team may be years away, but there's plenty of running to do right now. These kids' adidas shoes have plush Cloudfoam cushioning to keep them comfortable as they sprint through the park or race down the street. A durable non-marking outsole stands up to hard-playing kids. This product is made with Primegreen, a series of high-performance recycled materials. 50% of the upper is recycled content.",
+        "details":[
+            "Regular fit",
+            "Lace closure",
+            "Textile upper",
+            "OrthoLite® sockliner",
+            "Cloudfoam EVA midsole",
+            "Non-marking rubber outsole",
+            "Textile lining",
+            "Primegreen",
+            "Color: Core Black / Cloud White / Violet Tone",
+            "Product code: H04112"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","Unisex","Myanmar"],
+        "rating":"4.5",
+        "comfort":"4.1",
+        "quality":"4.6",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":6,
+        "title":"AEROREADY PRIMEGREEN PRIME TEE",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹800.00",
+        "pn":800,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/5c7258ae3ee94afbb112add600ab7f93_9366/AEROREADY_Primegreen_Prime_Tee_Blue_GS0343_01_laydown.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/28b83e826e4d4496b835add600ab922e_9366/AEROREADY_Primegreen_Prime_Tee_Blue_GS0343_02_laydown_hover.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e41291cff3d0464ba791add600abac5a_9366/AEROREADY_Primegreen_Prime_Tee_Blue_GS0343_41_detail.jpg"],
+        "discription_head":"A SILKY-SOFT TEE MADE FOR WORKING OUT IN COMFORT.",
+        "discription":"Go ahead. Do another rep. Push forward in this juniors' adidas training t-shirt. Train hard and stay dry thanks to AEROREADY. Soft fabric feels like cotton to the touch. Level up your look with hits of camouflage. Game on. This product is made with Primegreen, a series of high-performance recycled materials.",
+        "details":[
+            "Regular fit",
+            "Crewneck",
+            "65% recycled polyester, 35% viscose single jersey",
+            "Moisture absorbing",
+            "Single jersey",
+            "Primegreen",
+            "Color: Legend Ink / Semi Screaming Green / Bold Blue",
+            "Product code: GS0343"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Boys","India"],
+        "rating":"5.0",
+        "comfort":"4.6",
+        "quality":"4.6",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":7,
+        "title":"COPA SENSE.4 FLEXIBLE GROUND BOOTS",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹1 800.00",
+        "pn":18,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b7fd3e4f5d8f4e49ae66ad2400b2425f_9366/Copa_Sense.4_Flexible_Ground_Boots_Red_FY6168_01_standard.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a224f32bc8e546ae8eabad2400b2510a_9366/Copa_Sense.4_Flexible_Ground_Boots_Red_FY6168_02_standard_hover.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/922592e0228c4c29a7b1ad2400b258bb_9366/Copa_Sense.4_Flexible_Ground_Boots_Red_FY6168_03_standard.jpg"],
+        "discription_head":"IMPROVE YOUR TOUCH IN THESE VERSATILE BOOTS.",
+        "discription":"Some players need to be noticed. But the truly enlightened operate under the radar, slicing through the noise with the lightest touch. Focus on your football instincts in adidas Copa Sense. These juniors' boots have a soft synthetic upper for comfortable play. Underneath, a flexible outsole keeps you a class apart on firm ground, hard ground and artificial grass. This product is made with recycled content as part of our ambition to end plastic waste. 20% of pieces used to make the upper are made with minimum 50% recycled content.",
+        "details":[
+            "Lace closure",
+            "Soft synthetic upper",
+            "Flexible ground outsole",
+            "Color: Red / Cloud White / Solar Red",
+            "Product code: FY6168"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","Girls","Myanmar"],
+        "rating":"3.0",
+        "comfort":"3.5",
+        "quality":"3.0",
+        "fit":"Too Small",
+        "length":"Too Small"
+       
+
+    },
+    {
+        "id":8,
+        "title":"ADIZERO CLUB TENNIS SHOES",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹2 999.50",
+        "pn":2999.50,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bd296ebddd0141dd96d7ad0c00c4bb83_9366/Adizero_Club_Tennis_Shoes_Black_S23743_01_standard.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/95121d7dfb5348a391a4ad0c00c4cb89_9366/Adizero_Club_Tennis_Shoes_Black_S23743_02_standard_hover.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/732df29983da43b1b624ad0c00c4d2d5_9366/Adizero_Club_Tennis_Shoes_Black_S23743_03_standard.jpg"],
+        "discription_head":"SLEEK SHOES FOR SPEED ON THE COURT.",
+        "discription":"These kids' adidas tennis shoes were created to keep up with even the most energetic running. With low-profile midsole cushioning sitting on a grippy rubber outsole, they respond quickly to every sidestep and sudden change of direction. Their stretch-woven upper is designed with a foot-hugging fit to ensure your little superstar stays securely locked in. This product is made with Primegreen, a series of high-performance recycled materials. 50% of the upper is recycled content. No virgin polyester.",
+        "details":[
+            "Sock-like construction hugs the foot",
+            "Lace closure",
+            "Stretch-woven textile upper",
+            "Textile lining",
+            "Lightweight midsole cushioning",
+            "All-court rubber outsole",
+            "Primegreen",
+            "Color: Core Black / Signal Green / Sonic Ink",
+            "Product code: S23743"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","Unisex","Vietnam"],
+        "rating":"4.8",
+        "comfort":"4.5",
+        "quality":"4.6",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":9,
+        "title":"CLUB TENNIS SHORTS",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹1 049.50",
+        "pn":1049.50,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2b80abeb484a4f1b93daac75013c39e6_9366/Club_Tennis_Shorts_Purple_GK8173_01_laydown.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/28f56f47540543d99da2ac75013c6c3b_9366/Club_Tennis_Shorts_Purple_GK8173_02_laydown_hover.jpg",
+            "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/4dd3cbc2ada3467e80d9ac75013c7b6e_9366/Club_Tennis_Shorts_Purple_GK8173_41_detail.jpg"],
+        "discription_head":"DURABLE SHORTS THAT KEEP YOU FRESH ON COURT.",
+        "discription":"Country club style with a contemporary twist. Moisture-absorbing AEROREADY and mesh panels help these juniors' adidas Club tennis shorts keep you cool and dry. Even better, they're made using recycled materials so you can score another point in the battle against plastic waste. This product is made with Primegreen, a series of high-performance recycled materials.",
+        "details":[
+            "Regular fit",
+            "Elastic waist with drawcord",
+            "100% recycled polyester ripstop",
+            "Moisture-absorbing",
+            "Front pockets",
+            "Mesh ventilation",
+            "Ripstop",
+            "Primegreen",
+            "Color: Purple / White",
+            "Product code: GK8173"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Boys","Cambodia"],
+        "rating":"4.7",
+        "comfort":"4.3",
+        "quality":"4.3",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":10,
+        "title":"JUVENTUS HOME JERSEY",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹1 650.00",
+        "pn":1650,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/72b621c3001445ed9f16ab1f00cfc960_9366/Juventus_Home_Jersey_White_EI9900_01_laydown.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/79f94b6296b64ef3a4f0ab1f00cfdd33_9366/Juventus_Home_Jersey_White_EI9900_02_laydown_hover.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/74a71808f82e414b8b3bab1f00cfee3c_9366/Juventus_Home_Jersey_White_EI9900_41_detail.jpg"],
+        "discription_head":"A GOLD-ACCENTED JUVENTUS JERSEY FOR JUNIORS.",
+        "discription":"Artists can create whole worlds using only shadow and light. The design of this football jersey reinterprets the club's black-and-white stripes with a painterly touch. It's a juniors' version of the ones players wear on match day. The soft fabric keeps you dry on the pitch or beyond. Gold details pay homage to a club no strangers to glory.",
+        "details":[
+            "Regular fit",
+            "Ribbed crewneck",
+            "100% recycled polyester tricot",
+            "Football jersey for Juventus fans",
+            "Moisture-absorbing AEROREADY",
+            "Ribbed cuffs",
+            "Juventus woven crest",
+            "Tricot",
+            "This jersey is made with recycled polyester to save resources and decrease emissions",
+            "Color: White / Black",
+            "Product code: EI9900"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Boys","Cambodia"],
+        "rating":"4.8",
+        "comfort":"4.3",
+        "quality":"4.5",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":11,
+        "title":"PREDATOR 20 TRAINING GLOVES",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹600.00",
+        "pn":"600",
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/31e487a989514512a7b0ab9f00a77762_9366/Predator_20_Training_Gloves_Black_FS0411_01_standard.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/86e33a4b942c4dba8b02ab9f00a786e9_9366/Predator_20_Training_Gloves_Black_FS0411_41_detail_hover.jpg",
+            "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/df207d8ab2114da8b75bab9f00a7995a_9366/Predator_20_Training_Gloves_Black_FS0411_42_detail.jpg"],
+        "discription_head":"PREDATOR 20 TRAINING GLOVES",
+        "discription":"Your box. Your turf. Pull on these juniors' adidas Predator 20 Training football gloves when you want to work on your goalkeeping game. The positive cut in the fingers ensures you find a comfortable fit, and the half-wrist strap promises secure lock-in. Grippy and cushioned, the palm makes short work of stinging drives and floated crosses.",
+        "details":[
+            "Positive cut for comfortable fit",
+            "Backhand: 83% EVA, 15% polyester, 2% rubber foam",
+            "Palm: 64% rubber, 18% cotton, 18% polyurethane foam",
+            "Football goalkeeper gloves",
+            "Soft Grip latex for grip and cushioning",
+            "Lightweight half-wrap wrist strap",
+            "Vented cuff",
+            "Foam",
+            "Color: Black / White",
+            "Product code: FS0411"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Unisex","Vietnam"],
+        "rating":"4.8",
+        "comfort":"4.5",
+        "quality":"4.5",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    },
+    {
+        "id":12,
+        "title":"REAL MADRID 20/21 HOME SHORTS",
+        "subtitle":"Performance",
+        "status":"new",
+        "price":"₹1 000.00",
+        "pn":1000,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/211337058c50483baf92ab6501153c9d_9366/Real_Madrid_20-21_Home_Shorts_White_FQ7490_01_laydown.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/fa0366e24c5b43dea51fab650115491d_9366/Real_Madrid_20-21_Home_Shorts_White_FQ7490_02_laydown_hover.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a2147dd93f7549a4aa66ab65011555ef_9366/Real_Madrid_20-21_Home_Shorts_White_FQ7490_41_detail.jpg"],
+        "discription_head":"FOOTBALL SHORTS MADE FOR THEIR YOUNG FANS.",
+        "discription":"These juniors' adidas 20/21 shorts are based on the ones Real Madrid's superstars wear on the Santiago Bernabéu pitch. They're part of a home kit that's inspired by the décollage artwork dotted around the club's home city. Created for young fans, they'll keep you comfortable, thanks to the moisture-absorbing fabric.",
+        "details":[
+            "Regular fit",
+            "Elastic waist with drawcord",
+            "100% polyester interlock",
+            "Real Madrid football shorts",
+            "Moisture-absorbing AEROREADY",
+            "Real Madrid embroidered crest",
+            "Color: White",
+            "Product code: FQ7490"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Boys","Cambodia"],
+        "rating":"5.00",
+        "comfort":"4.8",
+        "quality":"4.8",
+        "fit":"perfect",
+        "length":"perfect"
+       
+
+    }
 ]
 }
 
