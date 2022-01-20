@@ -449,6 +449,196 @@
         "fit":"perfect",
         "length":"perfect"
 
+    },
+
+    {
+        "id":15,
+        "title":"FACE COVER 3-STRIPES - NOT FOR MEDICAL USE",
+        "subtitle":"Sportswear",
+        "status":"new",
+        "price":" ₹999.00",
+        "pn":999.00,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/64a3dfb0286c44dbacd0adac012568b7_9366/Face_Cover_3-Stripes_-_Not_For_Medical_Use_Black_HF7045_22_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1d13292bbaf04fec9377adac012583b5_9366/Face_Cover_3-Stripes_-_Not_For_Medical_Use_Black_HF7045_23_hover_model.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/133bdfb9dc8f451bb72badac01259cb7_9366/Face_Cover_3-Stripes_-_Not_For_Medical_Use_Black_HF7045_25_model.jpg"],
+        
+           "discription_head":"A FACE COVER WITH SIGNATURE ADIDAS STYLE.",
+            "discription":" Don't leave home without one. This adidas mask covers the lower part of your face in smooth, mesh-lined fabric. The straps feel soft around your ears, and 3-Stripes flash a sporty signoff.",
+        "details":[
+            "Shell: 93% recycled polyester, 7% elastane spacer",
+            "Lining: 92% recycled polyester, 8% elastane mesh",
+            "Spacer",
+            "Color: Black / White / Dgh Solid Grey",
+            "Product code: HF7045"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "3 N","Unisex","Vietnam"],
+        "rating":"4.5",
+        "comfort":"4.4",
+        "quality":"4.4"
+    },
+    {
+        "id":16,
+        "title":"RUNESY RUNNING SHOES",
+        "subtitle":"womens Running",
+        "price":"₹2 659.50",
+        "pn":2659.50,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/7e2e997e3adb4943ba53adb900ae5ddf_9366/Runesy_Running_Shoes_Blue_EY3051_01_standard.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/4bdf90dc3f6945258050adb900ae9f95_9366/Runesy_Running_Shoes_Blue_EY3051_02_standard_hover.jpg",
+            "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/611e9a5b2ce44c4ca8baadb900aea2f2_9366/Runesy_Running_Shoes_Blue_EY3051_03_standard.jpg"],
+       "discription_head":"STEP UP YOUR RUNS IN THESE LIGHT WEIGHT FLEXIBLE & BREATHABLE SHOES",
+            "discription":"Light weight Flexible & Breathable Battle Mesh. Branding Welding with a beautiful effect enhancing the visual appeal of the shoe. Three stripes branding with Non sew Synthetic material , Increasing beauty of product . Sock liner comfort sweat absorbing fabric. Synergy Outsole Rubber outsole is engineered in such a way that it gives maximum traction with minimum rubber component. Feature of extended rubber part on side profile at heel area gives you great stability while running. Midsole is again design with maximum EVA foam at heel which provide energize comport for all sports throughout the day.",
+        "details":[
+            "Mesh upper",
+            "Runesy M",
+            "Rubber Outsole",
+            "Lace-up Closure",
+            "Color: Crew Blue / Sky Tint / Mint Ton",
+            "Product code: EY3051"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","Women","India"],
+        "rating":"4.9",
+        "comfort":"4.2",
+        "quality":"4.8"
+    },
+    {
+        "id":17,
+        "title":"LITE RACER 2.0 SHOES",
+        "subtitle":"womens Running",
+        "price":"₹3 219.50",
+        "pn":3219.50,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9d2cd8e88a4346088740ac3c006adbdb_9366/Lite_Racer_2.0_Shoes_Black_FZ0385_01_standard.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d1f5d02b56644324a725ac3c006ae87e_9366/Lite_Racer_2.0_Shoes_Black_FZ0385_02_standard_hover.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e8bc49056e6f4979a192ac3c006aef15_9366/Lite_Racer_2.0_Shoes_Black_FZ0385_03_standard.jpg"],
+       "discription_head":"VERSATILE SHOES FOR A DYNAMIC LIFESTYLE.",
+            "discription":"The simplicity of these sports-minded shoes helps you get through every obligation on your calendar. They have a flowy silhouette and a breathable mesh upper. The soft and lightweight unitsole delivers long-lasting comfort while seamless 3-Stripes on the side celebrate adidas' sport heritage.",
+        "details":[
+            "Regular fit",
+           " Lace closure",
+           " Mesh upper",
+           " Sporty runners for everyday wear",
+           " OrthoLite® sockliner",
+           " EVA midsole and outsole",
+           " Color: Core Black / Core Black / Cloud White",
+           " Product code: FZ0385"
+                  ],
+        "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","Women","Indonesia"],
+        "rating":"4.7",
+        "comfort":"4.3",
+        "quality":"4.4",
+        "fit":"perfect",
+        "length":"perfect"
+    
+    },
+    {
+        "id":18,
+        "title":"SPORT INSPIRED MT 7/8 TIGHTS", 
+        "subtitle":"Women Lifestyle",
+        "price":"999.50",
+        "pn":999.50,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/25b2dd725eca4561a584ada4007e0f6d_9366/Sport_Inspired_MT_7-8_Tights_Black_HC4315_21_model.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bdcb70f3101c4a13902cada4007e19d1_9366/Sport_Inspired_MT_7-8_Tights_Black_HC4315_22_model.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d98e7c93d011491f8b20ada4007e39d5_9366/Sport_Inspired_MT_7-8_Tights_Black_HC4315_23_hover_model.jpg"],
+       "discription_head":"KEEP YOURSELF DRY AS YOU PUSH THROUGH THAT NEXT ROUND ON THE BENCH PRESS",
+            "discription":"These adidas training leggings will help you ramp up your workout. Moisture-absorbing AEROREADY keeps you dry as you push through that next round on the bench press. A sleek side pocket holds keys so you can focus on the job at hand without letting distractions get in the way.",
+        "details":[
+            "Made of 53% Cotton, 40% Recycled Polyester and 7% Elastane",
+           "Moisture-absorbing AEROREADY",
+           "Elastic waist",
+           "Mid-rise",
+           "Seven-eighths length",
+           "Fitted fit",
+           "Single jersey",
+           "Color: Black",
+           "Product code: HC4315"
+                  ],
+        "style":[""],
+        "value":["aadidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","unisex","Vietnam"],
+        "rating":"5.0",
+        "comfort":"3.0",
+        "quality":"5.0"
+    
+    },
+    {
+        "id":19,
+        "title":"SHOWTHEWAY SHOES", 
+        "subtitle":"Women sports inspired",
+        "status":"",
+        "price":"2 579.50",
+        "pn":2579.50,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ed45fa6951fb42039350ab89012872a8_9366/Showtheway_Shoes_Black_FX3623_01_standard.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/12df7caf159040ffb9c8aba50167dff7_9366/Showtheway_Shoes_Black_FX3623_010_hover_standard.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/25a1c0373007423087a5ab8901287f16_9366/Showtheway_Shoes_Black_FX3623_02_standard.jpg"],
+       "discription_head":"DAILY-WEAR SHOES INSPIRED BY SPORT.",
+            "discription":"These shoes can handle it all. With a slim design featuring an adidas logo on the tongue and 3-Stripes elements along the midfoot, these sports-inspired shoes pair easily with tights or your favourite jeans.",
+        "details":[
+            "Lace closure",
+            "Stretch-mesh upper with Fitframe supportive midfoot cage",
+            "Sock-like feel",
+            "Cushioned running shoes",
+            "EVA midsole and textile lining",
+            "Adiwear rubber outsole",
+            "Color: Core Black / Cloud White / Core Black",
+            "Product code: FX3623"
+                  ],
+        "style":[""],
+        "value":["aadidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","unisex","Vietnam"],
+        "rating":"4.2",
+        "comfort":"4.1",
+        "quality":"4.1"
+    
+    },
+    {
+        "id":20,
+        "title":"ADICOLOR CLASSICS CORDED VELOUR OVERSIZE SWEATSHIRT", 
+        "subtitle":"Women Lifestyle",
+        "price":"3 599.50",
+        "pn":3599.50,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/04e7db1731d34cdf8877ad58009cf5d7_9366/Adicolor_Classics_Corded_Velour_Oversize_Sweatshirt_Black_H37848_21_model.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/4fde6ad30aca441cac91ad58009cfcf9_9366/Adicolor_Classics_Corded_Velour_Oversize_Sweatshirt_Black_H37848_23_hover_model.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9129a60958d548ba8e43ad58009d0375_9366/Adicolor_Classics_Corded_Velour_Oversize_Sweatshirt_Black_H37848_25_model.jpg"],
+       "discription_head":"A CROPPED SWEATSHIRT MADE OF RIBBED VELOUR.",
+            "discription":"As if an oversize sweatshirt wasn't cosy enough on its own. This one from adidas is made of ribbed velour, which takes the plush levels through the roof. Pair the cropped style with denim or silk to play around with texture. This product is made with Primegreen, a series of high-performance recycled materials.",
+        "details":[
+            "Relaxed fit",
+            "Ribbed crewneck",
+            "100% recycled polyester tricot",
+            "Cosy feel",
+            "Ribbed cuffs and hem",
+            "Tricot",
+            "Primegreen",
+            "Color: Black",
+            "Product code: H37848"
+                  ],
+        "style":[""],
+        "value":["aadidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "1 N","Women","Vietnam"],
+        "rating":"4.5",
+        "comfort":"4.0",
+        "quality":"3.8"
+    
+    },
+    {
+        "id":21,
+        "title":"ADISSAGE SLIDES", 
+        "subtitle":"Swim",
+        "price":"2 499.00",
+        "pn":2499.00,
+        "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2034762823bb4c7aab57a9ad016487c9_9366/Adissage_Slides_Blue_F35579_01_standard.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/5636978918d14c71985ea9ad0165b37a_9366/Adissage_Slides_Blue_F35579_02_standard_hover.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/23b6e56244c44cceaa1da9ad0162a446_9366/Adissage_Slides_Blue_F35579_03_standard.jpg"],
+       "discription_head":"MASSAGE SLIDES FOR AFTER A WORKOUT.",
+            "discription":"These adidas Adissage slides have a flexible nubby footbed that massages hardworking feet and a bandage upper that adjusts for a custom fit. These slides are designed for post-workout rejuvenation and not for all-day comfort. If you are looking for an all-day comfort massage slide, try our Adilette Comfort Slides.",
+        "details":[
+            "Regular fit",
+            "Slip-on construction with hook-and-loop closure",
+            "Hook-and-loop adjustable upper",
+            "Cloudfoam outsole",
+            "EVA massage nubs on footbed",
+            "Color: Dark Blue / Cloud White / Dark Blue",
+            "Product code: F35579"
+                  ],
+        "style":[""],
+        "value":["aadidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
+            "2 N","unisex","Vietnam"],
+        "rating":"4.4",
+        "comfort":"3.9",
+        "quality":"4.2"
+    
     }
 ],
 
