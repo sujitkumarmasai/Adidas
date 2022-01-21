@@ -17,12 +17,14 @@
             
                "discription_head":"AN EVERYDAY T-SHIRT WITH AUTHENTIC STYLE.",
                 "discription":" The brand with the 3-Stripes strives to be better. To be the best. Created to be truly original, the Adicolor collection keeps heritage its heart. The iconic Trefoil logo celebrates that energy front and centre on this adidas classic t-shirt. Soft single jersey feels soft against your skin. Our cotton products support sustainable cotton farming. This is part of our ambition to end plastic waste.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Ribbed crewneck",
                 " 92% cotton",
                 "8% elastane single jersey",
-                " Soft feel","Big Trefoil logo on front",
+                " Soft feel"],
+                "details2":[
+                "Big Trefoil logo on front",
                 "Single jersey",
                " Color: White",
                " Product code: GN2899"
@@ -53,11 +55,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bead9a615b5a46d1a659abc90135ec1b_9366/Superstar_Shoes_White_FX7484_010_hover_standard.jpg"],
            "discription_head":"ICONIC SHELL-TOE TRAINERS WITH HITS OF GOLD.",
                 "discription":"Go ahead. Put on your gold hoops and your fanciest jumpsuit. Tonight you're gonna sparkle. adidas Superstar Shoes have been a symbol of self expression for over 50 years. This pair carries on the tradition with golden details that are anything but dull. So lace up in glitzy glam and let your true self shine.",
-            "details":[
+            "details1":[
                 "Narrow fit",
                 "Lace closure",
                 "Leather upper",
-                "Moulded sockliner",
+                "Moulded sockliner"
+            ],
+            "details2":[
                 "Shell-toe trainers",
                "Rubber cupsole",
                 "Color: Cloud White / Copper Metallic / Core Black",
@@ -89,11 +93,13 @@
                 "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/aeeb714769e8499c808fac8400398463_9366/Adicolor_Classics_Trefoil_Tee_Black_GN2896_25_model.jpg"],
            "discription_head":"AN EVERYDAY T-SHIRT WITH AUTHENTIC STYLE.",
                 "discription":"The brand with the 3-Stripes strives to be better. To be the best. Created to be truly original, the Adicolor collection keeps heritage its heart. The iconic Trefoil logo celebrates that energy front and centre on this adidas classic t-shirt. Soft single jersey feels soft against your skin. Our cotton products support sustainable cotton farming. This is part of our ambition to end plastic waste.",
-            "details":[
+            "details1":[
                 "Regular fit",
                "Ribbed crewneck",
                " 92% cotton, 8% elastane single jersey",
-                "Soft feel",
+                "Soft feel"
+            ],
+            "details2":[
                 "Big Trefoil logo on front",
                 "Single jersey",
                " Color: Black",
@@ -125,9 +131,11 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9e384ea3caed49b48940ad1e01574cb5_9366/adidas_Superstar_x_LEGO(r)_Shoes_White_GW5270_012_hover_standard.jpg"],
            "discription_head":"EXCLUSIVE SHOES FROM THE LEGO® SUPERSTAR COLLECTION.",
                 "discription":"Two iconic looks meet as the LEGO Group brings its instantly recognisable aesthetics to the classic Superstar. Featuring custom-made shell toe, serrated 3-Stripes and heel, carefully crafted to replicate the LEGO® brick in black and white. Available only at adidas online and in-store. An exclusive style you won't find anywhere else.",
-            "details":[
+            "details1":[
                 "Synthetic upper",
-                "Rubber outsole",
+                "Rubber outsole"
+            ],
+            "details2":[
                 "Color: Cloud White / Core Black / Core Black",
                 "Product code: GW5270"
                       ],
@@ -157,11 +165,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2508587fee674f9ca19cac710151259b_9366/Adicolor_Classics_3-Stripes_Tee_White_GN2913_25_model.jpg"],
               "discription_head":"A SOFT COTTON TEE FOR SERIOUS CHILLING.",
                 "discription":"Just because you're hanging with your crew all weekend doesn't mean you're going to skip out on style. Pull on this adidas t-shirt and rock an authentic 3-Stripes vibe. Wherever the day takes you, keep it casual and classic. Our cotton products support sustainable cotton farming. This is part of our ambition to end plastic waste",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Ribbed crewneck",
                 " 100% cotton",
-                " Soft feel",
+                " Soft feel"
+            ],
+            "details2":[
                 "Single jersey",
                " Color: White",
                " Product code: GN2913"
@@ -192,11 +202,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b74ad585ba3e4d4393a9ad5800f33401_9366/ZX_5K_BOOST_Shoes_White_GV7704_012_hover_standard.jpg"],
               "discription_head":"SLEEK, FUTURISTIC TRAINERS MADE FOR EVERYDAY COMFORT.",
                 "discription":" Ready for the future? You are in these adidas ZX 5K BOOST shoes. Bringing the best of modern technology into the ever-evolving ZX franchise, they charge up your stride and let your style shine. BOOST cushioning takes care of the comfort side of things. Translucent and reflective details keep your feet fresh.",
-            "details":[
+            "details1":[
                 "Lace closure",
                 "Mesh upper with suede overlays",
                 "Textile lining",
-                "BOOST midsole",
+                "BOOST midsole"
+            ],
+            "details2":[
                 "Rubber outsole",
                 "Color: Wonder White / White Tint / Acid Yellow",
                 "Product code: GV7704"
@@ -221,12 +233,14 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/6a1be03bf76b4d42a5daacf5014f6894_9366/Primeblue_SST_Track_Jacket_Pink_H34593_25_model.jpg"],
             "discription_head":"AN ICONIC TRACK JACKET MADE WITH RECYCLED MATERIALS",
                 "discription":"A track jacket like never before. Sure, this may look just like iconic adidas gear from the archive, but this Primeblue SST Track Top symbolises change. The iconic silhouette is made with Parley Ocean Plastic that's made from upcycled plastic waste collected from ocean shores. It's a statement style that's good for the planet too. Stand up, stand out and join adidas' commitment to help end plastic waste.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Full zip with ribbed collar",
                 "50% cotton, 45% recycled polyester, 5% elastane interlock",
                 "3-Stripes track jacket",
-                "Side zip pockets",
+                "Side zip pockets"
+            ],
+            "details2":[
                 "Ribbed cuffs and hem",
                 "Interlock",
                 "Color: Ambient Blush",
@@ -265,7 +279,8 @@
                 "100% recycled polyester plain weave",
                 "Breathable mesh",
                 "Key pocket",
-                "Inner mesh briefs",
+                "Inner mesh briefs"],
+                "details2":[
                 "360-degree reflectivity",
                 "Plain weave",
                 "Color: Black / White",
@@ -302,7 +317,8 @@
                 "Elastic waist with drawcord",
                 "100% recycled polyester plain weave",
                 "Breathable mesh",
-                "Key pocket",
+                "Key pocket"],
+                "details2":[
                 "Inner mesh briefs",
                 "360-degree reflectivity",
                 "Plain weave",
@@ -334,12 +350,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/827a46c5b760453c90feacb700f1b39c_9366/M20_Egle_Women_in_Power_Shorts_Black_GV0701_25_model.jpg"],
             "discription_head":"IGHTWEIGHT RUNNING SHORTS THAT GO THE DISTANCE.",
             "discription":"Run for yourself. For the feeling, the time alone with your thoughts or the strength you gain with each step. Do it in these adidas shorts. They're made with moisture-managing AEROREADY that wicks sweat and keeps you fresh. Flashing a print from London-based artist Egle Zvirblyte? That's a little treat to yourself. This product is made with recycled content as part of our ambition to end plastic waste",
-            "details":[
+            "details1":[
                 "Elastic waist with drawcord",
                 "100% recycled polyester plain weave",
                 "Soft and breathable",
                 "Jersey inner briefs",
-                "Egle Zvirblyte artwork",
+                "Egle Zvirblyte artwork"],
+                "details2":[
                 "360 reflectivity",
                 "Plain weave",
                 "Color: Black",
@@ -376,7 +393,8 @@
                 "100% recycled polyester doubleknit",
                 "Stay-put running shorts",
                 "Moisture-absorbing AEROREADY",
-                "Built-in tights",
+                "Built-in tights"],
+                "details2":[
                 "Key pockets",
                 "Reflective details",
                 "Doubleknit",
@@ -409,12 +427,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/76195043555849cf9084ab6501017d1e_9366/Marathon_20_Two-in-One_Shorts_Black_FS9845_22_model.jpg"],
             "discription_head":"RUNNING SHORTS WITH INNER TIGHTS",
             "discription":"Over long distances, comfortable gear is the difference between a great run and a forgettable one. These adidas two-in-one shorts are made of lightweight and breathable fabric. Built-in tights help prevent chafing. So you can get up tomorrow and do it all again",
-            "details":[
+            "details1":[
                 "Drawcord on elastic waist",
                 "100% recycled polyester doubleknit",
                 "Stay-put running shorts",
                 "Moisture-absorbing AEROREADY",
-                "Built-in tights",
+                "Built-in tights"],
+                "details2":[
                 "Key pockets",
                 "Reflective details",
                 "Doubleknit",
@@ -447,12 +466,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b670874462484766a356ad52012c4200_9366/Own_the_Run_Hooded_Wind_Jacket_Blue_H31033_25_model.jpg"],
             "discription_head":"A WATER-REPELLENT JACKET FOR RUNNING IN WIND AND LIGHT RAIN",
             "discription":"Don't think about the weather. The shifting temperatures might be out of your control, but your comfort levels aren't. The key is layering, specifically with this adidas running jacket. It has a water-repellent finish so you can keep running through stiff breezes and light drizzle. Zip up, flip the hood and get out there.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Full zip with drawcord hood",
                 "100% recycled polyester dobby",
                 "PFC-free water-repellent finish",
-                "Front pockets with one sweat-guard pocket",
+                "Front pockets with one sweat-guard pocket"],
+                "details2":[
                 "Reflective details",
                 "Dobby",
                 "Color: Victory Blue",
@@ -484,13 +504,14 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/8b1b714977c64943bab9ad1900bc903e_9366/Adizero_Marathon_Jacket_White_GT9742_23_hover_model.jpg"],
             "discription_head":"A FULL-ZIP JACKET THAT LETS YOU RUN WITHOUT DISTRACTIONS.",
             "discription":"There's a lot to think about while you run. Some things? You shouldn't have to. Like the weather. Or your clothes. Lightweight and breathable, this adidas jacket protects against wind and rain and lets you move freely. Zip it on and go. Your goals are within reach. This product is made with recycled content as part of our ambition to end plastic waste.",
-            "details":[
+            "details1":[
                 "Slim fit",
                 "Full zip with bungee-adjustable hood",
                 "100% nylon ripstop",
                 "Lightweight",
                 "Reflective details",
-                "Side pockets",
+                "Side pockets"],
+                "details2":[
                 "Chest pocket with zip",
                 "Bungee-adjustable hem",
                 "Elastic cuffs",
@@ -527,7 +548,8 @@
             "details":[
                 "Shell: 93% recycled polyester, 7% elastane spacer",
                 "Lining: 92% recycled polyester, 8% elastane mesh",
-                "Spacer",
+                "Spacer"],
+                "details2":[
                 "Color: Black / White / Dgh Solid Grey",
                 "Product code: HF7045"
                       ],
@@ -552,10 +574,11 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/611e9a5b2ce44c4ca8baadb900aea2f2_9366/Runesy_Running_Shoes_Blue_EY3051_03_standard.jpg"],
            "discription_head":"STEP UP YOUR RUNS IN THESE LIGHT WEIGHT FLEXIBLE & BREATHABLE SHOES",
                 "discription":"Light weight Flexible & Breathable Battle Mesh. Branding Welding with a beautiful effect enhancing the visual appeal of the shoe. Three stripes branding with Non sew Synthetic material , Increasing beauty of product . Sock liner comfort sweat absorbing fabric. Synergy Outsole Rubber outsole is engineered in such a way that it gives maximum traction with minimum rubber component. Feature of extended rubber part on side profile at heel area gives you great stability while running. Midsole is again design with maximum EVA foam at heel which provide energize comport for all sports throughout the day.",
-            "details":[
+            "details1":[
                 "Mesh upper",
                 "Runesy M",
-                "Rubber Outsole",
+                "Rubber Outsole"],
+                "details2":[
                 "Lace-up Closure",
                 "Color: Crew Blue / Sky Tint / Mint Ton",
                 "Product code: EY3051"
@@ -579,11 +602,12 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9d2cd8e88a4346088740ac3c006adbdb_9366/Lite_Racer_2.0_Shoes_Black_FZ0385_01_standard.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d1f5d02b56644324a725ac3c006ae87e_9366/Lite_Racer_2.0_Shoes_Black_FZ0385_02_standard_hover.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e8bc49056e6f4979a192ac3c006aef15_9366/Lite_Racer_2.0_Shoes_Black_FZ0385_03_standard.jpg"],
            "discription_head":"VERSATILE SHOES FOR A DYNAMIC LIFESTYLE.",
                 "discription":"The simplicity of these sports-minded shoes helps you get through every obligation on your calendar. They have a flowy silhouette and a breathable mesh upper. The soft and lightweight unitsole delivers long-lasting comfort while seamless 3-Stripes on the side celebrate adidas' sport heritage.",
-            "details":[
+            "details1":[
                 "Regular fit",
                " Lace closure",
                " Mesh upper",
-               " Sporty runners for everyday wear",
+               " Sporty runners for everyday wear"],
+               "details2":[
                " OrthoLite® sockliner",
                " EVA midsole and outsole",
                " Color: Core Black / Core Black / Cloud White",
@@ -611,12 +635,13 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/25b2dd725eca4561a584ada4007e0f6d_9366/Sport_Inspired_MT_7-8_Tights_Black_HC4315_21_model.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bdcb70f3101c4a13902cada4007e19d1_9366/Sport_Inspired_MT_7-8_Tights_Black_HC4315_22_model.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d98e7c93d011491f8b20ada4007e39d5_9366/Sport_Inspired_MT_7-8_Tights_Black_HC4315_23_hover_model.jpg"],
            "discription_head":"KEEP YOURSELF DRY AS YOU PUSH THROUGH THAT NEXT ROUND ON THE BENCH PRESS",
                 "discription":"These adidas training leggings will help you ramp up your workout. Moisture-absorbing AEROREADY keeps you dry as you push through that next round on the bench press. A sleek side pocket holds keys so you can focus on the job at hand without letting distractions get in the way.",
-            "details":[
+            "details1":[
                 "Made of 53% Cotton, 40% Recycled Polyester and 7% Elastane",
                "Moisture-absorbing AEROREADY",
                "Elastic waist",
                "Mid-rise",
-               "Seven-eighths length",
+               "Seven-eighths length"],
+               "details2":[
                "Fitted fit",
                "Single jersey",
                "Color: Black",
@@ -2051,10 +2076,12 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e8e4ca1cb4e7441b8a62ac3c0024072d_9366/Nemeziz_Messi.4_Turf_Boots_Gold_FY0812_01_standard.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f45507467ba64bf589c9ac3c002414a3_9366/Nemeziz_Messi.4_Turf_Boots_Gold_FY0812_02_standard_hover.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/51eb3c1cabcd4bc495f3ac3c00241b74_9366/Nemeziz_Messi.4_Turf_Boots_Gold_FY0812_03_standard.jpg"],
             "discription_head":"SUPPORTIVE TURF BOOTS FOR MESSI FANS",
             "discription":"No cage or court can keep you boxed in. Smaller spaces just mean sweeter moves. Pull on Nemeziz for agility on demand. These juniors' adidas football boots show your love for Messi. The synthetic upper locks your foot down, giving you support for every twist and turn. The outsole gives you traction as you weave your magic on turf.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Lace closure",
-                "Synthetic upper",
+                "Synthetic upper"],
+
+                "details2":[
                 "Rubber outsole",
                 "Color: Gold Metallic / Scarlet / Core Black",
                 "Product code: FY0812"
@@ -2155,11 +2182,12 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/333f2ab0836f42aa9fa0ad22012a5077_9366/Disney_Mickey_Mouse_Tee_Pink_H28826_01_laydown.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/40b357c430804f819c07ad22012a5688_9366/Disney_Mickey_Mouse_Tee_Pink_H28826_02_laydown_hover.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2b4c8bbe72e54102b46dad22012a5e99_9366/Disney_Mickey_Mouse_Tee_Pink_H28826_41_detail.jpg"],
             "discription_head":"A SOFT COTTON TEE INSPIRED BY DISNEY'S FIRST CELEBRITY.",
             "discription":"There's nothing your little one can't achieve with the world's best cheerleader. Disney's Mickey Mouse gives this adidas t-shirt a fun, lovable look. Cotton jersey feels soft enough for your star player to wear all day, every day. Sorry in advance. By buying cotton products from us, you're supporting more sustainable cotton farming.",
-            "details":[
+            "details1":[
                 "Loose fit",
                 "Ribbed crewneck",
                 "100% cotton single jersey",
-                "©Disney",
+                "©Disney"],
+                "details2":[
                 "Single jersey",
                 "Better Cotton Initiative",
                 "Color: Team Real Magenta / White",
