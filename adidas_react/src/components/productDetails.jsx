@@ -17,7 +17,7 @@ export const ProductsDetails = () => {
   const [value,setValue] = useState({});
   const[imgnum,setimgnum] = useState(0);
   useEffect(() => {
-    fetch(`http://localhost:3002/adidas_data/m4`)
+    fetch(`http://localhost:3002/adidas_data/w1`)
       .then((res) => res.json())
       .then((result) => {
         setData(result);

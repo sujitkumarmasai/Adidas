@@ -51,8 +51,8 @@
             "discount":40,
             "type":"foot",
             "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/558d70a93a794d0eb698abc900cccd2d_9366/Superstar_Shoes_White_FX7484_01_standard.jpg",
-                "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/b70d5a04af74464b8f71abc80080e48f_d98c/Superstar_Shoes_White_FX7484_video.mp4",
-                "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bead9a615b5a46d1a659abc90135ec1b_9366/Superstar_Shoes_White_FX7484_010_hover_standard.jpg"],
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bead9a615b5a46d1a659abc90135ec1b_9366/Superstar_Shoes_White_FX7484_010_hover_standard.jpg",                         
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0ceef9e64b36442f9bb6abc900ccdc52_9366/Superstar_Shoes_White_FX7484_02_standard.jpg"],
            "discription_head":"ICONIC SHELL-TOE TRAINERS WITH HITS OF GOLD.",
                 "discription":"Go ahead. Put on your gold hoops and your fanciest jumpsuit. Tonight you're gonna sparkle. adidas Superstar Shoes have been a symbol of self expression for over 50 years. This pair carries on the tradition with golden details that are anything but dull. So lace up in glitzy glam and let your true self shine.",
             "details1":[
@@ -198,7 +198,7 @@
            "discount":50,
            "type":"foot",
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/92ce19bcac5e4ac99d76ad580157b956_9366/ZX_5K_BOOST_Shoes_White_GV7704_01_standard.jpg",
-                "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/bd565f6815924e598198add0011d6b9f_d98c/ZX_5K_BOOST_Shoes_White_GV7704_video.mp4",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d0192389067d43a597b2ad580157c8ae_9366/ZX_5K_BOOST_Shoes_White_GV7704_02_standard.jpg",
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b74ad585ba3e4d4393a9ad5800f33401_9366/ZX_5K_BOOST_Shoes_White_GV7704_012_hover_standard.jpg"],
               "discription_head":"SLEEK, FUTURISTIC TRAINERS MADE FOR EVERYDAY COMFORT.",
                 "discription":" Ready for the future? You are in these adidas ZX 5K BOOST shoes. Bringing the best of modern technology into the ever-evolving ZX franchise, they charge up your stride and let your style shine. BOOST cushioning takes care of the comfort side of things. Translucent and reflective details keep your feet fresh.",
@@ -273,7 +273,7 @@
             
               "discription_head":"BREATHABLE RUNNING SHORTS MADE TO GO THE DISTANCE",
                 "discription":"Meet the workhorse of workout wear. Soft and breathable, these adidas running shorts are sporty and super comfortable. AEROREADY helps keep moisture off your skin and your mind on your run. Now you're ready for anything.",
-            "details":[
+            "details1":[
                 "Regular fit",
                " Elastic waist with drawcord",
                 "100% recycled polyester plain weave",
@@ -312,7 +312,7 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f9d839bfe1db4540b469acfc014bfb7e_9366/Marathon_20_Shorts_Red_H31065_25_model.jpg"],
             "discription_head":"BREATHABLE RUNNING SHORTS MADE TO GO THE DISTANCE.",
            "discription":"Meet the workhorse of workout wear. Soft and breathable, these adidas running shorts are sporty and super comfortable. AEROREADY helps keep moisture off your skin and your mind on your run. Now you're ready for anything",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Elastic waist with drawcord",
                 "100% recycled polyester plain weave",
@@ -388,7 +388,7 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0cd1a5e1f09d40aebd9aab7d00d73254_9366/Marathon_20_Two-in-One_Shorts_Green_GC6652_23_hover_model.jpg"],
             "discription_head":"RUNNING SHORTS WITH INNER TIGHTS.",
             "discription":"ADIDAS SUPERSTAR X LEGO® SHOES EXCLUSIVE SHOES FROM THE LEGO® SUPERSTAR COLLECTION. Two iconic looks meet as the LEGO Group brings its instantly recognisable aesthetics to the classic Superstar. Featuring custom-made shell toe, serrated 3-Stripes and heel, carefully crafted to replicate the LEGO® brick in black and white. Available only at adidas online and in-store. An exclusive style you won't find anywhere else.",
-            "details":[
+            "details1":[
                 "Drawcord on elastic waist",
                 "100% recycled polyester doubleknit",
                 "Stay-put running shorts",
@@ -423,7 +423,7 @@
            "discount":0,
            "type":"bottom",
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/72527925b68c4b3e8c20ab6501016f98_9366/Marathon_20_Two-in-One_Shorts_Black_FS9845_21_model.jpg",
-                "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/d03bcfd0fd8147b4b6c6ab6500f8bdb4_d98c/Marathon_20_Two-in-One_Shorts_Black_FS9845_video.mp4",
+             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/23e1776fde2449feb9fcab6501018ad4_9366/Marathon_20_Two-in-One_Shorts_Black_FS9845_23_hover_model.jpg",
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/76195043555849cf9084ab6501017d1e_9366/Marathon_20_Two-in-One_Shorts_Black_FS9845_22_model.jpg"],
             "discription_head":"RUNNING SHORTS WITH INNER TIGHTS",
             "discription":"Over long distances, comfortable gear is the difference between a great run and a forgettable one. These adidas two-in-one shorts are made of lightweight and breathable fabric. Built-in tights help prevent chafing. So you can get up tomorrow and do it all again",
@@ -545,7 +545,7 @@
             
                "discription_head":"A FACE COVER WITH SIGNATURE ADIDAS STYLE.",
                 "discription":" Don't leave home without one. This adidas mask covers the lower part of your face in smooth, mesh-lined fabric. The straps feel soft around your ears, and 3-Stripes flash a sporty signoff.",
-            "details":[
+            "details1":[
                 "Shell: 93% recycled polyester, 7% elastane spacer",
                 "Lining: 92% recycled polyester, 8% elastane mesh",
                 "Spacer"],
@@ -669,11 +669,12 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ed45fa6951fb42039350ab89012872a8_9366/Showtheway_Shoes_Black_FX3623_01_standard.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/12df7caf159040ffb9c8aba50167dff7_9366/Showtheway_Shoes_Black_FX3623_010_hover_standard.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/25a1c0373007423087a5ab8901287f16_9366/Showtheway_Shoes_Black_FX3623_02_standard.jpg"],
            "discription_head":"DAILY-WEAR SHOES INSPIRED BY SPORT.",
                 "discription":"These shoes can handle it all. With a slim design featuring an adidas logo on the tongue and 3-Stripes elements along the midfoot, these sports-inspired shoes pair easily with tights or your favourite jeans.",
-            "details":[
+            "details1":[
                 "Lace closure",
                 "Stretch-mesh upper with Fitframe supportive midfoot cage",
                 "Sock-like feel",
-                "Cushioned running shoes",
+                "Cushioned running shoes"],
+                "details2":[
                 "EVA midsole and textile lining",
                 "Adiwear rubber outsole",
                 "Color: Core Black / Cloud White / Core Black",
@@ -700,12 +701,13 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/04e7db1731d34cdf8877ad58009cf5d7_9366/Adicolor_Classics_Corded_Velour_Oversize_Sweatshirt_Black_H37848_21_model.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/4fde6ad30aca441cac91ad58009cfcf9_9366/Adicolor_Classics_Corded_Velour_Oversize_Sweatshirt_Black_H37848_23_hover_model.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9129a60958d548ba8e43ad58009d0375_9366/Adicolor_Classics_Corded_Velour_Oversize_Sweatshirt_Black_H37848_25_model.jpg"],
            "discription_head":"A CROPPED SWEATSHIRT MADE OF RIBBED VELOUR.",
                 "discription":"As if an oversize sweatshirt wasn't cosy enough on its own. This one from adidas is made of ribbed velour, which takes the plush levels through the roof. Pair the cropped style with denim or silk to play around with texture. This product is made with Primegreen, a series of high-performance recycled materials.",
-            "details":[
+            "details1":[
                 "Relaxed fit",
                 "Ribbed crewneck",
                 "100% recycled polyester tricot",
                 "Cosy feel",
-                "Ribbed cuffs and hem",
+                "Ribbed cuffs and hem"],
+                "details2":[
                 "Tricot",
                 "Primegreen",
                 "Color: Black",
@@ -732,11 +734,12 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2034762823bb4c7aab57a9ad016487c9_9366/Adissage_Slides_Blue_F35579_01_standard.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/5636978918d14c71985ea9ad0165b37a_9366/Adissage_Slides_Blue_F35579_02_standard_hover.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/23b6e56244c44cceaa1da9ad0162a446_9366/Adissage_Slides_Blue_F35579_03_standard.jpg"],
            "discription_head":"MASSAGE SLIDES FOR AFTER A WORKOUT.",
                 "discription":"These adidas Adissage slides have a flexible nubby footbed that massages hardworking feet and a bandage upper that adjusts for a custom fit. These slides are designed for post-workout rejuvenation and not for all-day comfort. If you are looking for an all-day comfort massage slide, try our Adilette Comfort Slides.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Slip-on construction with hook-and-loop closure",
                 "Hook-and-loop adjustable upper",
-                "Cloudfoam outsole",
+                "Cloudfoam outsole"],
+                "details2":[
                 "EVA massage nubs on footbed",
                 "Color: Dark Blue / Cloud White / Dark Blue",
                 "Product code: F35579"
@@ -767,10 +770,11 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/3c05d4c22a7d4c16bd0ead4400ed267f_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4701_22_model.jpg"],
             "discription_head":"HELP PROTECT YOUR COMMUNITY IN THIS FACE COVERING.",
             "discription":"Through the hard times and the good, we pull together as a community. Be a team player and help stop the spread in this adidas face covering. The soft, flexible fabric allows for easy breathing. It's reusable too, so you can cut down on waste by tossing it in the wash.",
-            "details":[
+            "details1":[
                 "Main: 93% recycled polyester, 7% elastane spacer",
                 "Inner lining: 92% recycled polyester, 8% elastane mesh",
-                "Not for medical use",
+                "Not for medical use"],
+                "details2":[
                 "Spacer",
                 "Color: Black / Multicolor / Multicolor",
                 "Product code: HC4701"
@@ -799,11 +803,12 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a72549b2494a44d0858aadac009dc6bc_9366/Face_Covers_-_Not_For_Medical_Use_Black_HC4703_23_hover_model.jpg"],
             "discription_head":"HELP PROTECT YOUR COMMUNITY IN THIS FACE COVERING.",
             "discription":"Through the hard times and the good, we pull together as a community. Be a team player and help stop the spread in this adidas face covering. The soft, flexible fabric allows for easy breathing. It's reusable too, so you can cut down on waste by tossing it in the wash.",
-            "details":[
+            "details1":[
                 "Main: 93% recycled polyester, 7% elastane spacer",
                 "Inner lining: 92% recycled polyester, 8% elastane mesh",
                 "Not for medical use",
-                "Three to a pack",
+                "Three to a pack"],
+                "details2":[
                 "Spacer",
                 "Color: Black / Black / Black",
                 "Product code: HC4703"
@@ -832,10 +837,11 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2a54ffd49de641578edfad4400ec6808_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4698_23_model.jpg"],
             "discription_head":"LIMIT THE SPREAD WITH THIS FACE COVERING.",
             "discription":"The spirit of sport goes beyond style. It's the spirit of community and strength that builds a team. Be a team player and help stop the spread in this adidas face covering. The flexible material keeps you comfortable and allows for easy breathing.",
-            "details":[
+            "details1":[
                 "Main: 93% recycled polyester, 7% elastane spacer",
                 "Inner lining: 92% recycled polyester, 8% elastane mesh",
-                "Not for medical use",
+                "Not for medical use"],
+                "details2":[
                 "Spacer",
                 "Color: Black / Blue Bird / White",
                 "Product code: HC4698"
@@ -860,15 +866,16 @@
            "discount":30,
            "type":"foot",
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9e4850c6019841138e38a7fa00de8937_9366/Adilette_Slides_Black_280647_01_standard.jpg",
-                "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/7cdc9fc00bbb41f6b2bfab730133167f_d98c/Adilette_Slides_Black_280647_video.mp4",
+             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/306114d8c6e94df18f8da46c00ca113e_9366/Adilette_Slides_Black_280647_03_standard.jpg",
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/43ff07ffb8174bed9c79a46c00ca16b4_9366/Adilette_Slides_Black_280647_02_standard_hover.jpg"],
             "discription_head":"EVERYDAY SLIDES WITH HERITAGE STYLE.",
             "discription":"The Adilette debuted in 1970 as a shower slide for the German national football team during the world's biggest match in Mexico before being officially released back in '72. It's been a style mainstay of adidas ever since. These slides stay true to the original look with a contoured footbed and 3-Stripes across the bandage upper.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Slip-on design",
                 "PU-coated synthetic bandage upper",
-                "Quick-dry lining",
+                "Quick-dry lining"],
+                "details2":[
                 "Contoured footbed",
                 "Polyurethane outsole",
                 "Color: Core Black / White / Core Black",
@@ -899,11 +906,12 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f12ed569c9d24db2b582acfa015bc80e_9366/Face_Cover_Medium-Large_-_Not_For_Medical_Use_Green_H59842_23_model.jpg"],
             "discription_head":"A WASHABLE FACE COVER MADE OF STRETCHY SPACER FABRIC.",
             "discription":"Phone, keys, wallet and face mask. The new leaving-the-house essential, this adidas face cover makes it easy to practise healthy habits. The seamless inner panel and stretchy ear loops keep you comfortable every day.",
-            "details":[
+            "details1":[
                 "Elastic ear loops",
                 "Shell: 93% recycled polyester, 7% elastane spacer",
                 "Lining: 92% recycled polyester, 8% elastane mesh",
-                "Seamless inner panel",
+                "Seamless inner panel"],
+                "details2":[
                 "Spacer",
                 "Color: Wild Pine / Crew Navy / Black",
                 "Product code: H59842"
@@ -933,13 +941,14 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1a5ae6e4592c462aab30ab7600eb9055_9366/BSC_Insulated_Hooded_Jacket_Blue_FT2538_23_hover_model.jpg"],
             "discription_head":"AN INSULATED JACKET FOR CITY LIVING",
             "discription":"Stay warm while you keep pace with the city. This adidas insulated jacket adapts outdoor tech for city living. Lightweight synthetic insulation adds warmth without bulk. A drawcord hood and elastic cuffs seal out the cold. Recycled materials mean it feels good on all levels.",
-            "details":[
+            "details1":[
                 "Slim fit",
                 "Full zip with drawcord-adjustable hood",
                 "Shell: 100% recycled polyester",
                 "Padding: 100% polyester",
                 "Front zip pockets",
-                "Elastic cuffs",
+                "Elastic cuffs"],
+                "details2":[
                 "Lined",
                 "Plain weave",
                 "Primegreen",
@@ -973,12 +982,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2010b7ccabc24fd18215ad2b00154920_9366/Terrex_Multi_Primegreen_Hybrid_Insulated_Jacket_Green_GU6486_25_model.jpg"],
             "discription_head":"HELP PROTECT YOUR COMMUNITY IN THIS FACE COVERING.",
             "discription":"Through the hard times and the good, we pull together as a community. Be a team player and help stop the spread in this adidas face covering. The soft, flexible fabric allows for easy breathing. It's reusable too, so you can cut down on waste by tossing it in the wash.",
-            "details":[
+            "details1":[
                 "Slim fit",
                 "Full zip with hood",
                 "100% recycled polyester fleece",
                 "Sleeve and body overlay: 100% recycled polyester ripstop",
-                "Side zip pockets",
+                "Side zip pockets"],
+                "details2":[
                 "Elastic cuffs and hem",
                 "Fleece",
                 "Primegreen",
@@ -1012,12 +1022,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/5986d9c122484d9eb6cdab2c013db132_9366/BUTTON_TENNIS_T-SHIRT_Blue_FS3800_01_laydown.jpg"],
             "discription_head":"A T-SHIRT FOR STANDING OUT ON COURT.",
             "discription":"When you have a racquet in your hand, confidence comes easily. This adidas t-shirt will keep you standing out on court. The crisscross graphic on the front takes centre stage. But behind the scenes, moisture-absorbing fabric and a tennis-specific cut help you take your game up a gear.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Two-button crewneck",
                 "100% recycled polyester doubleknit",
                 "Breathable feel",
-                "Moisture-absorbing AEROREADY",
+                "Moisture-absorbing AEROREADY"],
+                "details2":[
                 "Mesh back fabric",
                 "Shaped and cut for active tennis motion",
                 "Doubleknit",
@@ -1050,13 +1061,14 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1a5ae6e4592c462aab30ab7600eb9055_9366/BSC_Insulated_Hooded_Jacket_Blue_FT2538_23_hover_model.jpg"],
             "discription_head":"AN INSULATED JACKET FOR CITY LIVING.",
             "discription":"Stay warm while you keep pace with the city. This adidas insulated jacket adapts outdoor tech for city living. Lightweight synthetic insulation adds warmth without bulk. A drawcord hood and elastic cuffs seal out the cold. Recycled materials mean it feels good on all levels.",
-            "details":[
+            "details1":[
                 "Slim fit",
                 "Full zip with drawcord-adjustable hood",
                 "Shell: 100% recycled polyester",
                 "Padding: 100% polyester",
                 "Front zip pockets",
-                "Elastic cuffs",
+                "Elastic cuffs"],
+                "details2":[
                 "Lined",
                 "Plain weave",
                 "Primegreen",
@@ -1089,10 +1101,11 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/2a54ffd49de641578edfad4400ec6808_9366/Face_Cover_-_Not_For_Medical_Use_Black_HC4698_23_model.jpg"],
             "discription_head":"LIMIT THE SPREAD WITH THIS FACE COVERING.",
             "discription":"The spirit of sport goes beyond style. It's the spirit of community and strength that builds a team. Be a team player and help stop the spread in this adidas face covering. The flexible material keeps you comfortable and allows for easy breathing.",
-            "details":[
+            "details1":[
                 "Main: 93% recycled polyester, 7% elastane spacer",
                 "Inner lining: 92% recycled polyester, 8% elastane mesh",
-                "Not for medical use",
+                "Not for medical use"],
+                "details2":[
                 "Spacer",
                 "Color: Black / Blue Bird / White",
                 "Product code: HC4698"
@@ -1116,16 +1129,17 @@
            "Division":"shoes",
            "discount":60,
            "type":"bottom",
-           "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/9e4850c6019841138e38a7fa00de8937_9366/Adilette_Slides_Black_280647_01_standard.jpg",
-                "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/7cdc9fc00bbb41f6b2bfab730133167f_d98c/Adilette_Slides_Black_280647_video.mp4",
-                "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/43ff07ffb8174bed9c79a46c00ca16b4_9366/Adilette_Slides_Black_280647_02_standard_hover.jpg"],
+           "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/eb642617cadc46d998abad1f00a52472_9366/Adilette_Slides_Yellow_H03200_01_standard.jpg",
+             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/083d5ef25c684036af22ad1f00a55fbc_9366/Adilette_Slides_Yellow_H03200_02_standard_hover.jpg",
+                "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/d7e090f8eed54617ba45ad1f00a57dd7_9366/Adilette_Slides_Yellow_H03200_03_standard.jpg"],
             "discription_head":"EVERYDAY SLIDES WITH HERITAGE STYLE.",
             "discription":"The Adilette debuted in 1970 as a shower slide for the German national football team during the world's biggest match in Mexico before being officially released back in '72. It's been a style mainstay of adidas ever since. These slides stay true to the original look with a contoured footbed and 3-Stripes across the bandage upper.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Slip-on design",
                 "PU-coated synthetic bandage upper",
-                "Quick-dry lining",
+                "Quick-dry lining"],
+                "details2":[
                 "Contoured footbed",
                 "Polyurethane outsole",
                 "Color: Core Black / White / Core Black",
@@ -1153,16 +1167,17 @@
            "discount":40,
            "type":"bottom",
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b901a88e42844ec5aa1daa9e00ff664f_9366/Own_the_Run_Long_Tights_Black_ED9288_01_laydown.jpg",
-                "https://assets.adidas.com/videos/q_auto,f_auto,g_auto/c0d536dfe97a46a29f25ac1500f278ae_d98c/Own_the_Run_Long_Tights_Black_ED9288_video.mp4",
+             "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b901a88e42844ec5aa1daa9e00ff664f_9366/Own_the_Run_Long_Tights_Black_ED9288_01_laydown.jpg",
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/22126689c6704b25b89faa9e00ff5963_9366/Own_the_Run_Long_Tights_Black_ED9288_02_laydown_hover.jpg"],
             "discription_head":"RUNNING TIGHTS WITH A SECURE FIT",
             "discription":"The streets are quiet and your neighbourhood is still asleep. You slide into these adidas running tights and slip out the door to welcome the day. Moisture-absorbing fabric helps you stay dry and comfortable when the sun finally offers its warmth.",
-            "details":[
+            "details1":[
                 "Tight fit",
                 "Elastic waist with drawcord",
                 "55% recycled polyester, 28% polyester, 17% elastane doubleknit",
                 "Moisture-absorbing AEROREADY",
-                "Long running tights",
+                "Long running tights"],
+                "details2":[
                 "Sweat-guard zip pocket",
                 "360 degrees of reflectivity",
                 "Doubleknit",
@@ -1195,9 +1210,10 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/99b6c36fdba94e638928ada300b95f13_9366/SATURDAY1-2_TGT_Black_H58572_25_model.jpg"],
             "discription_head":"HELP PROTECT YOUR COMMUNITY IN THIS FACE COVERING.",
             "discription":"Through the hard times and the good, we pull together as a community. Be a team player and help stop the spread in this adidas face covering. The soft, flexible fabric allows for easy breathing. It's reusable too, so you can cut down on waste by tossing it in the wash.",
-            "details":[
+            "details1":[
                 "Interlock",
-                "Color: Black",
+                "Color: Black"],
+                "details2":[
                 "Product code: H58572"
                       ],
             "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
@@ -1221,12 +1237,12 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/73ad357103e648c8bff3ad8100ffe690_9366/Runner_Tee_Burgundy_H25050_25_model.jpg"],
             "discription_head":"A COMFORTABLE RUNNING TEE MADE WITH RECYCLED MATERIALS.",
             "discription":"Every time you throw on the adidas Runner Tee and head out the door, you're signalling your commitment to yourself and to the health of the planet. The soft and comfortable t-shirt is made of recycled materials, one step adidas is making toward creating products with less environmental impact. We know it's just a first step toward a sustainable future. But that's where the journey begins.",
-            "details":[
+            "details1":[
                 "Crewneck",
                 "100% recycled polyester",
                 "Soft and breathable",
-                "Reflective running t-shirt",
-                "Jacquard",
+                "Reflective running t-shirt"],
+                "details2":[
                 "This product has been made with Primegreen, a series of high-performance recycled materials using no virgin polyester.",
                 "Color: Victory Crimson",
                 "Product code: H25050"
@@ -1256,10 +1272,11 @@
             
                "discription_head":"MESH SHOES FOR LIGHTWEIGHT COMFORT",
                 "discription":"Make running a part of your everyday routine in these men’s shoes. They feature a durable and breathable mesh upper that keeps you dry as you complete your miles. Lightweight cushioning keeps your stride comfortable.",
-            "details":[
+            "details1":[
                 "Mesh upper",
                 "Lightweight midsole",
-                "Durable rubber outsole",
+                "Durable rubber outsole"],
+                "details2":[
                 "Color: Tech Onix / Dove Grey / Semi Screaming Green",
                 "Product code: EY3024"
                       ],
@@ -1284,11 +1301,12 @@
             
                "discription_head":"VERSATILE TRAINERS THAT FIT INTO YOUR DAILY ROUTINE.",
                 "discription":"When the day is young, the possibilities are endless. No matter what may be on the agenda, step into some shoes that will provide a smooth ride every step of the way. With a durable construction built on a rubber outsole, the foundation on these adidas running-inspired trainers is solid. Expect comfort thanks to a generously cushioned midsole.",
-            "details":[
+            "details1":[
                 "Lace closure",
                 "Textile upper",
                 "Durable and comfortable",
-                "Cloudfoam midsole",
+                "Cloudfoam midsole"],
+                "details2":[
                 "Textile lining",
                 "Rubber outsole",
                 "Color: Core Black / Carbon / Iron Metallic",
@@ -1316,10 +1334,11 @@
             
                "discription_head":"MAKE RUNNING A PART OF YOUR EVERYDAY ROUTINE WITH THE MOTIVATION OF COMFORT",
                 "discription":"Make running a part of your everyday routine in these men’s shoes. They feature a durable and breathable mesh with synthetic upper. Lightweight cushioning keeps your stride comfortable.",
-            "details":[
+            "details1":[
                 "Mesh upper",
                 "EVA midsole",
-                "Durable rubber outsole",
+                "Durable rubber outsole"],
+                "details2":[
                 "Color: Core Black / Stone / Grey Six",
                 "Product code: EW2554"
                       ],
@@ -1344,10 +1363,11 @@
             
                "discription_head":"RUNNING SHOES THAT SUPPORT EVERY STEP.",
                 "discription":"Being a disciplined runner doesn't mean your runs can't be fun. Add a splash of colour to your strenous runs as you push your limits. These men's running shoes feature a breathable mesh upper along with an EVA midsole, which provides optimum cushioning where you need it most. The rubber outsole offers ample traction and long-lasting wear.",
-            "details":[
+            "details1":[
                 "Mesh upper",
                 "EVA midsole",
-                "Rubber outsole",
+                "Rubber outsole"],
+                "details2":[
                 "Color: Dove Grey / Core Black / Dark Royal / Cloud White",
                 "Product code: EX2270"
                       ],
@@ -1372,11 +1392,12 @@
             
                "discription_head":"QUICK-DRYING SLIDES WITH A SLEEK LOOK.",
                 "discription":"Introduced in 1972, the beloved adidas Adilette slides have been much copied but never surpassed. Designed to transition seamlessly from the beach to the locker room to running errands around town, this version has a soft EVA bandage upper and a comfortable contoured footbed.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Slip-on",
                 "EVA bandage upper",
-                "Lightweight",
+                "Lightweight"],
+                "details2":[
                 "Textile lining",
                 "Injected EVA outsole",
                 "Color: Core Black / Core Black / Sonic Ink",
@@ -1403,8 +1424,9 @@
             
                "discription_head":"",
                 "discription":"",
-            "details":[
-                "Color: Brown / Dove Grey",
+            "details1":[
+                "Color: Brown / Dove Grey"],
+                "details2":[
                " Product code: EY3101"
                       ],
             "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
@@ -1428,8 +1450,9 @@
             
                "discription_head":"",
                 "discription":"",
-            "details":[
-                "Color: Collegiate Navy / Grey Two / Vivid Red",
+            "details1":[
+                "Color: Collegiate Navy / Grey Two / Vivid Red"],
+                "details2":[
                 "Product code: EY385"
                       ],
             "value":["adidas India Marketing Private Limited, Office no. 6, 2nd Floor, Sector-B, Pocket no. 7, Plot no. 11, Vasant Kunj, New Delhi - 110070",
@@ -1459,12 +1482,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/51ff213e2cec4e4394a9adb40170603e_9366/FortaRun_Lace_Running_Shoes_Black_H04112_04_standard.jpg"],
             "discription_head":"COMFORTABLE RUNNING SHOES WITH CLASSIC LACES",
             "discription":"rying out for the track team may be years away, but there's plenty of running to do right now. These kids' adidas shoes have plush Cloudfoam cushioning to keep them comfortable as they sprint through the park or race down the street. A durable non-marking outsole stands up to hard-playing kids. This product is made with Primegreen, a series of high-performance recycled materials. 50% of the upper is recycled content.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Lace closure",
                 "Textile upper",
                 "OrthoLite® sockliner",
-                "Cloudfoam EVA midsole",
+                "Cloudfoam EVA midsole"],
+                "details2":[
                 "Non-marking rubber outsole",
                 "Textile lining",
                 "Primegreen",
@@ -1497,12 +1521,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/7280ad06446a4424ad68ac5300adc01a_9366/EQ21_Run_Shoes_Blue_FX2253_03_standard.jpg"],
             "discription_head":"LIGHTWEIGHT, CUSHIONED RUNNING SHOES FOR KIDS.",
             "discription":"Running around the backyard. Climbing trees at the park. When the world is their gym, these kids' shoes keeps them comfortable. The flexible upper rides on Bounce, a lightweight midsole for dynamic movement. Stretchy laces make these trainers easy to slip on, even if they haven't learned about bunny loops. This product is made with Primegreen, a series of high-performance recycled materials. 50% of upper is recycled content. No virgin polyester. ",
-            "details":[
+            "details1":[
                 "Crewneck",
                 "100% recycled polyester",
                 "Soft and breathable",
                 "Reflective running t-shirt",
-                "Jacquard",
+                "Jacquard"],
+                "details2":[
                 "This product has been made with Primegreen, a series of high-performance recycled materials using no virgin polyester.",
                 "Color: Victory Crimson",
                 "Product code: H25050"
@@ -1533,11 +1558,12 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/fb0c4568a80048b29906ad1200a2c0d8_9366/Duramo_SL_Shoes_Grey_GV9818_04_standard.jpg"],
             "discription_head":"KIDS' RUNNING SHOES FOR EVERY DAY.",
             "discription":"It seems like kids are always on the move. For the future track star in your household, these running shoes deliver support and style. A breathable mesh upper and lightweight cushioning underfoot combine to keep their feet feeling cool and comfortable. The adidas 3-Stripes design completes the look. This product is made with recycled content as part of our ambition to end plastic waste. 20% of pieces used to make the upper are made with minimum 50% recycled content.",
-            "details":[
+            "details1":[
                 "Lace closure",
                " Mesh upper with supportive no-sew overlays",
                " Textile lining",
-               " Lightmotion cushioning",
+               " Lightmotion cushioning"],
+               "details2":[
                " Cloudfoam midsole and soft neoprene heel",
                " Adiwear outsole",
                " Color: Grey Six / Solar Red / Carbon",
@@ -1569,12 +1595,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/48e55933b56f429eab40ae19003a65a7_9366/FortaRun_Lace_Running_Shoes_Grey_GY2747_03_standard.jpg"],
             "discription_head":"COMFORTABLE RUNNING SHOES WITH CLASSIC LACES.",
             "discription":"Trying out for the track team may be years away, but there's plenty of running to do right now. These kids' adidas shoes have plush Cloudfoam cushioning to keep them comfortable as they sprint through the park or race down the street. A durable non-marking outsole stands up to hard-playing kids. This product is made with Primegreen, a series of high-performance recycled materials. 50% of the upper is recycled content.",
-            "details":[
+            "details1":[
                 "Lace closure",
                 "Textile upper",
                 "OrthoLite® sockliner",
                 "Cloudfoam EVA midsole",
-                "Non-marking rubber outsole",
+                "Non-marking rubber outsole"],
+                "details2":[
                 "Textile lining",
                 "Primegreen",
                 "Color: Halo Silver / Cloud White / Screaming Green",
@@ -1606,12 +1633,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bbdcd426ab30461a9c8fadb401721bdd_9366/FortaRun_Lace_Running_Shoes_Black_H04112_03_standard.jpg"],
             "discription_head":"COMFORTABLE RUNNING SHOES WITH CLASSIC LACES.",
             "discription":"Trying out for the track team may be years away, but there's plenty of running to do right now. These kids' adidas shoes have plush Cloudfoam cushioning to keep them comfortable as they sprint through the park or race down the street. A durable non-marking outsole stands up to hard-playing kids. This product is made with Primegreen, a series of high-performance recycled materials. 50% of the upper is recycled content.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Lace closure",
                 "Textile upper",
                 "OrthoLite® sockliner",
-                "Cloudfoam EVA midsole",
+                "Cloudfoam EVA midsole"],
+                "details2":[
                 "Non-marking rubber outsole",
                 "Textile lining",
                 "Primegreen",
@@ -1644,11 +1672,12 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e41291cff3d0464ba791add600abac5a_9366/AEROREADY_Primegreen_Prime_Tee_Blue_GS0343_41_detail.jpg"],
             "discription_head":"A SILKY-SOFT TEE MADE FOR WORKING OUT IN COMFORT.",
             "discription":"Go ahead. Do another rep. Push forward in this juniors' adidas training t-shirt. Train hard and stay dry thanks to AEROREADY. Soft fabric feels like cotton to the touch. Level up your look with hits of camouflage. Game on. This product is made with Primegreen, a series of high-performance recycled materials.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Crewneck",
                 "65% recycled polyester, 35% viscose single jersey",
-                "Moisture absorbing",
+                "Moisture absorbing"],
+                "details2":[
                 "Single jersey",
                 "Primegreen",
                 "Color: Legend Ink / Semi Screaming Green / Bold Blue",
@@ -1680,10 +1709,11 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/922592e0228c4c29a7b1ad2400b258bb_9366/Copa_Sense.4_Flexible_Ground_Boots_Red_FY6168_03_standard.jpg"],
             "discription_head":"IMPROVE YOUR TOUCH IN THESE VERSATILE BOOTS.",
             "discription":"Some players need to be noticed. But the truly enlightened operate under the radar, slicing through the noise with the lightest touch. Focus on your football instincts in adidas Copa Sense. These juniors' boots have a soft synthetic upper for comfortable play. Underneath, a flexible outsole keeps you a class apart on firm ground, hard ground and artificial grass. This product is made with recycled content as part of our ambition to end plastic waste. 20% of pieces used to make the upper are made with minimum 50% recycled content.",
-            "details":[
+            "details1":[
                 "Lace closure",
                 "Soft synthetic upper",
-                "Flexible ground outsole",
+                "Flexible ground outsole"],
+                "details2":[
                 "Color: Red / Cloud White / Solar Red",
                 "Product code: FY6168"
                       ],
@@ -1713,12 +1743,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/732df29983da43b1b624ad0c00c4d2d5_9366/Adizero_Club_Tennis_Shoes_Black_S23743_03_standard.jpg"],
             "discription_head":"SLEEK SHOES FOR SPEED ON THE COURT.",
             "discription":"These kids' adidas tennis shoes were created to keep up with even the most energetic running. With low-profile midsole cushioning sitting on a grippy rubber outsole, they respond quickly to every sidestep and sudden change of direction. Their stretch-woven upper is designed with a foot-hugging fit to ensure your little superstar stays securely locked in. This product is made with Primegreen, a series of high-performance recycled materials. 50% of the upper is recycled content. No virgin polyester.",
-            "details":[
+            "details1":[
                 "Sock-like construction hugs the foot",
                 "Lace closure",
                 "Stretch-woven textile upper",
                 "Textile lining",
-                "Lightweight midsole cushioning",
+                "Lightweight midsole cushioning"],
+                "details2":[
                 "All-court rubber outsole",
                 "Primegreen",
                 "Color: Core Black / Signal Green / Sonic Ink",
@@ -1750,12 +1781,13 @@
                 "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/4dd3cbc2ada3467e80d9ac75013c7b6e_9366/Club_Tennis_Shorts_Purple_GK8173_41_detail.jpg"],
             "discription_head":"DURABLE SHORTS THAT KEEP YOU FRESH ON COURT.",
             "discription":"Country club style with a contemporary twist. Moisture-absorbing AEROREADY and mesh panels help these juniors' adidas Club tennis shorts keep you cool and dry. Even better, they're made using recycled materials so you can score another point in the battle against plastic waste. This product is made with Primegreen, a series of high-performance recycled materials.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Elastic waist with drawcord",
                 "100% recycled polyester ripstop",
                 "Moisture-absorbing",
-                "Front pockets",
+                "Front pockets"],
+                "details2":[
                 "Mesh ventilation",
                 "Ripstop",
                 "Primegreen",
@@ -1788,12 +1820,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/74a71808f82e414b8b3bab1f00cfee3c_9366/Juventus_Home_Jersey_White_EI9900_41_detail.jpg"],
             "discription_head":"A GOLD-ACCENTED JUVENTUS JERSEY FOR JUNIORS.",
             "discription":"Artists can create whole worlds using only shadow and light. The design of this football jersey reinterprets the club's black-and-white stripes with a painterly touch. It's a juniors' version of the ones players wear on match day. The soft fabric keeps you dry on the pitch or beyond. Gold details pay homage to a club no strangers to glory.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Ribbed crewneck",
                 "100% recycled polyester tricot",
                 "Football jersey for Juventus fans",
-                "Moisture-absorbing AEROREADY",
+                "Moisture-absorbing AEROREADY"],
+                "details2":[
                 "Ribbed cuffs",
                 "Juventus woven crest",
                 "Tricot",
@@ -1827,12 +1860,13 @@
                 "https://assets.adidas.com/images/h_2000,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/df207d8ab2114da8b75bab9f00a7995a_9366/Predator_20_Training_Gloves_Black_FS0411_42_detail.jpg"],
             "discription_head":"PREDATOR 20 TRAINING GLOVES",
             "discription":"Your box. Your turf. Pull on these juniors' adidas Predator 20 Training football gloves when you want to work on your goalkeeping game. The positive cut in the fingers ensures you find a comfortable fit, and the half-wrist strap promises secure lock-in. Grippy and cushioned, the palm makes short work of stinging drives and floated crosses.",
-            "details":[
+            "details1":[
                 "Positive cut for comfortable fit",
                 "Backhand: 83% EVA, 15% polyester, 2% rubber foam",
                 "Palm: 64% rubber, 18% cotton, 18% polyurethane foam",
                 "Football goalkeeper gloves",
-                "Soft Grip latex for grip and cushioning",
+                "Soft Grip latex for grip and cushioning"],
+                "details2":[
                 "Lightweight half-wrap wrist strap",
                 "Vented cuff",
                 "Foam",
@@ -1865,12 +1899,13 @@
                 "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a2147dd93f7549a4aa66ab65011555ef_9366/Real_Madrid_20-21_Home_Shorts_White_FQ7490_41_detail.jpg"],
             "discription_head":"FOOTBALL SHORTS MADE FOR THEIR YOUNG FANS.",
             "discription":"These juniors' adidas 20/21 shorts are based on the ones Real Madrid's superstars wear on the Santiago Bernabéu pitch. They're part of a home kit that's inspired by the décollage artwork dotted around the club's home city. Created for young fans, they'll keep you comfortable, thanks to the moisture-absorbing fabric.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Elastic waist with drawcord",
                 "100% polyester interlock",
                 "Real Madrid football shorts",
-                "Moisture-absorbing AEROREADY",
+                "Moisture-absorbing AEROREADY"],
+                "details2":[
                 "Real Madrid embroidered crest",
                 "Color: White",
                 "Product code: FQ7490"
@@ -1899,14 +1934,15 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/57907e6a12e04d85963cab1f00cef8cf_9366/Juventus_Home_Mini_Kit_White_EI9896_01_laydown.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/8852829268894dae92caab1f00cf0fe9_9366/Juventus_Home_Mini_Kit_White_EI9896_03_laydown_hover.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b426b2d3ded94bcbb45cab1f00cf230d_9366/Juventus_Home_Mini_Kit_White_EI9896_04_laydown.jpg"],
             "discription_head":"A THREE-PIECE KIT FOR YOUNG JUVENTUS FANS.",
             "discription":"Fuel your little one's football dreams. Kit them out like their Juventus heroes in this kids' adidas mini kit. A pint-size version of the club's home kit, it includes a jersey, shorts and socks. Each piece is soft and built to move, so they stay comfortable all day.",
-            "details":[
+            "details1":[
                 "Regular fit",
                " Ribbed V-neck and elastic waist",
                " Jersey: 100% recycled polyester tricot",
                " Shorts: 100% recycled polyester interlock",
                " Home mini kit for Juventus fans",
                " Moisture-absorbing AEROREADY",
-               " Jersey: Ribbed cuffs",
+               " Jersey: Ribbed cuffs"],
+               "details2":[
                " Juventus heat-transferred crest",
                " Includes one pair of crew socks",
                " Interlock,Tricot",
@@ -1938,12 +1974,13 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f4fe82d4dffc47ae9297ab6700b0cc6f_9366/Arsenal_20-21_Away_Jersey_White_FH7812_01_laydown.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/baaaa8d1fba643a786dcab6700b0d935_9366/Arsenal_20-21_Away_Jersey_White_FH7812_02_laydown.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/433c8e91e08543ec81c9ab6700b0ec1b_9366/Arsenal_20-21_Away_Jersey_White_FH7812_41_detail.jpg"],
             "discription_head":"A FAN JERSEY INSPIRED BY THE MARBLE HALLS.",
             "discription":"When fans stepped into the lobby of the East Stand, they were greeted with grandeur. The Arsenal away jersey draws inspiration from the Marble Halls, synonymous with the class of the club itself. This football jersey is a juniors' version of the ones athletes wear on match day. It's built for everyday comfort, with a woven crest on the chest.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Ribbed V-neck",
                 "51% polyester, 49% recycled polyetser doubleknit",
                 "Jersey for Arsenal fans",
-                "Moisture-absorbing AEROREADY",
+                "Moisture-absorbing AEROREADY"],
+                "details2":[
                 "Arsenal heat-transfer crest",
                 "Doubleknit",
                 "Color: Cloud White / Black",
@@ -1973,11 +2010,12 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a6b38742b86b4ded9574ad2100cc68b4_9366/originals-flex-shoes.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/eef3f007f1094387bf65ad2100cc75e9_9366/Originals_Flex_Shoes_Turquoise_S23957_02_standard_hover.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/415befb0981b459d9c07ad2100cc7d0e_9366/Originals_Flex_Shoes_Turquoise_S23957_03_standard.jpg"],
             "discription_head":"FLEXIBLE TRAINERS FOR EVERYDAY WEAR.",
             "discription":"School mode. Weekend mode. Travel mode. Vacation mode. Whatever you're up to, these juniors' adidas shoes are here for it. Their super-flexible sole is soft, comfortable and always easy to move in. The running-inspired design is always in style. Wear them laced-up or as slip-ons. You've got options.",
-            "details":[
+            "details1":[
                 "Lace closure",
                 "Mesh upper with synthetic suede overlays",
                 "Hugs the foot",
-                "OrthoLite® sockliner",
+                "OrthoLite® sockliner"],
+                "details2":[
                 "EVA outsole with deep flex grooves",
                 "Color: Sonic Aqua / Pulse Aqua / Signal Green",
                 "Product code: S23957"
@@ -2006,13 +2044,14 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/97b92ed1fb4c439badf5ace100af3985_9366/Disney_Comfy_Princesses_Dress_Orange_GT9491_01_laydown.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/22ca4e71e97e45eea72eace100af3eda_9366/Disney_Comfy_Princesses_Dress_Orange_GT9491_02_laydown.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a7672ab5bfa548cbb435ace100af45d3_9366/Disney_Comfy_Princesses_Dress_Orange_GT9491_41_detail.jpg"],
             "discription_head":"",
             "discription":"A SPORTY, LOOSE-FITTING DRESS FOR COMFY PRINCESSES FANS",
-            "details":[
+            "details1":[
                 "Loose fit",
                 "Ribbed V-neck",
                 "Main body and sleeves: 100% recycled polyester doubleknit",
                 "Upper front and back: 100% polyester mesh",
                 "Moisture absorbing",
-                "Dress length",
+                "Dress length"],
+                "details2":[
                 "Side slits on droptail hem",
                 "©Disney",
                 "Doubleknit",
@@ -2044,12 +2083,13 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/6882407ffc2540dbbb84ad43016794fa_9366/FortaRun_Lace_Running_Shoes_Black_FZ5496_01_standard.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/de9103f3aa5a42aabf39ad430167300b_9366/FortaRun_Lace_Running_Shoes_Black_FZ5496_02_standard_hover.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/3f6fa049b8bf4932abf2ad4301670f89_9366/FortaRun_Lace_Running_Shoes_Black_FZ5496_03_standard.jpg"],
             "discription_head":"COMFORTABLE RUNNING SHOES WITH CLASSIC LACES.",
             "discription":"COMFORTABLE RUNNING SHOES WITH CLASSIC LACES.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Lace closure",
                 "Textile upper",
                 "OrthoLite® sockliner",
-                "Cloudfoam EVA midsole",
+                "Cloudfoam EVA midsole"],
+                "details2":[
                 "Non-marking rubber outsole",
                 "Textile lining",
                 "Primegreen",
@@ -2110,12 +2150,13 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/28256b088ad84fe9a64eac2100d99308_9366/Glam_On_AEROREADY_Tights_Black_GE0475_01_laydown.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/7d2f13b7b3fa40218e4dac2100d99de8_9366/Glam_On_AEROREADY_Tights_Black_GE0475_02_laydown_hover.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b4a27ee7ec334ef1a206ac2100d9ae84_9366/Glam_On_AEROREADY_Tights_Black_GE0475_41_detail.jpg"],
             "discription_head":"LONG TRAINING TIGHTS WITH A KEY POCKET.",
             "discription":"Life is hectic. Training tights that can double as going-out tights make all the juggling you do just a little bit easier. These adidas Glam On AEROREADY Tights for juniors are made with lightweight fabric that help you stay dry during wall sits or dumbbell presses. A key pocket inside the waistband means you can travel hands-free.",
-            "details":[
+            "details1":[
                 "Fitted fit",
                 "Elastic waist",
                 "91% polyester, 9% elastane single jersey",
                 "Training tights with a key pocket",
-                "Moisture-absorbing AEROREADY",
+                "Moisture-absorbing AEROREADY"],
+                "details2":[
                 "Key pocket in waistband",
                 "Long length",
                 "Single jersey",
@@ -2146,12 +2187,13 @@
            "gallary":["https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f70d6c1a64be4b66ada0ab190155c351_9366/Branded_Tee_White_FM5832_01_laydown.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/97e41f3c65c4424d8f08ab190155ce03_9366/Branded_Tee_White_FM5832_02_laydown_hover.jpg","https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/eff794e51b0946248323ab190155dd11_9366/Branded_Tee_White_FM5832_41_detail.jpg"],
             "discription_head":"A WORKOUT TEE THAT'S MADE FOR MOVEMENT.",
             "discription":"Commit to fitness in this juniors' adidas t-shirt. It's designed for freedom of movement, so you can do pull-ups or handstands without feeling a tug on your shirt. Lightweight jersey fabric helps keep you dry during long cardio sessions.",
-            "details":[
+            "details1":[
                 "Regular fit",
                 "Crewneck",
                 "88% recycled polyester, 12% elastane single jersey",
                 "Tee for movement",
-                "Side-split droptail hem",
+                "Side-split droptail hem"],
+                "details2":[
                 "FreeLift design",
                 "Moisture-absorbing AEROREADY",
                 "This tee is made with recycled polyester to save resources and decrease emissions",
