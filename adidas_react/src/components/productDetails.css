@@ -5,28 +5,8 @@ body {
     margin: 0px;    
 }
 /* header */
-#topHeader {
-    display: flex;
-    background-color: black;
-    color: white;
-    height: 30px;
-    flex-grow: 0px;
-    overflow: hidden;
-}
 
-#topHeader div {
-    margin: 0.5% 0% 0% 15%;
-    font-size: 11px;
-    font-weight: bold;
-    letter-spacing: 2px;
-}
-#header{
-    display: flex;
-    height: 80px;
-    border-bottom: 1px solid #eaebec;
-    margin-bottom: 40px;
-    overflow: hidden;
-}
+
 .adidasLogo{
     width: 70px;
     margin-top: 15px;
@@ -41,11 +21,7 @@ body {
 }
 
 #rightSideBox>a>button {
-    margin-left: 1%;
-    background-color: white;
-    border: 0px solid white;
-    color: black;
-    cursor: pointer;
+  
 }
 
 #rightSideBox>a>button:hover {
@@ -418,4 +394,44 @@ a{
     .head{
         background-color: #000000;
         color:white;
+        width: 50%;
+    }
+
+    .btn{
+        width:60px;
+        height:40px;
+        background-color:#0000;
+        border:1px solid #bdbdbd
+    }
+    .btn:hover{
+        background-color: #000;
+        color:white;
+
+    }
+    .add{
+        width:60%;
+        height:50px;
+        color:white;
+        background-color: #000
+    }
+    .dtxt{
+        text-align:left;
+        width:fit-content;
+        cursor: pointer;
+        text-decoration:underline;
+        margin-left:3%;
+    }
+
+    .dtxt:hover{
+        background-color: #000;
+        color:white;
+    }
+    .star{
+        background-color: #2ada71;
+        width:20%;
+        height:20px;
+    }
+    .txt{
+        text-align:left;
+        margin:10px;
     }
