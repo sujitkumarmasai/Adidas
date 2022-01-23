@@ -44,3 +44,5 @@ const womenSchema = mongoose.Schema(
 
 module.exports = mongoose.model("women", womenSchema)
 
+
+// mongodb+srv://sanjay_kashyap:<password>@cluster0.nhbuy.mongodb.net/myFirstDatabase?retryWrites=true&w=majorit

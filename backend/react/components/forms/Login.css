@@ -1,0 +1,60 @@
+.container {
+    text-align: left;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .left, .right{
+      width: 45%;
+  }
+  
+  #email, #password {
+      width: 90%;
+      height: 40px;
+      margin-top: 20px;
+  }
+  
+  button{
+      color: white;
+      background-color: black;
+      width: 30%;
+      height: 40px;
+      margin-top: 10px;
+  }
+
+  #checkbox {
+      margin-top: 20px;
+  }
+  
+  #checkbox1 {
+    width: 25px;
+    height: 25px;
+    border: 5px solid grey;
+    border-width: 4px;
+  }
+  
+  img{
+      margin-top: 10px;
+      width: 90%;
+      height: 200px;
+  }
+
+  .lowerDiv{
+      height: 100px;
+      background-color: yellow;
+      display: flex;
+      text-align: center;
+      margin-top: 50px;
+      width: 100%;
+  }
+
+  .lowerDiv > h1 {
+      margin-left: 170px;
+  }
+
+  #signup {
+      margin-top: 23px;
+      margin-left: 40px;
+  }
+  
