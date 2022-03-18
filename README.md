@@ -31,20 +31,13 @@ Adidas is a German multinational corporation, founded and headquartered in Herzo
 ![](https://github.com/m-sehrawat/Adidas-Website-Clone/blob/main/Adidas%20Clone%20Screen%20Shots/Sign%20Up%20page.png?raw=true)
 ### Payment Page
 ![](https://github.com/m-sehrawat/Adidas-Website-Clone/blob/main/Adidas%20Clone%20Screen%20Shots/Payment%20Page.png?raw=true)
-## [Getting Started]
-### Execution..
-Want to run in your local Machine? Great!
-To run, follow these steps:
-- Clone my repository `https://github.com/m-sehrawat/Adidas-Website-Clone`
-- Open that code in your VS code `Project Files/adidas_home_page.html`
-- Open the `adidas_home_page.html` on Live server
-- Then you can Navigate through other pages from Home page like `product_page.html`, `adidas_productDescription.html` etc
+<br/>
 ## Built with 
 - CSS
 - REACT JS
 - EXPRESS
 - MONGODB
-- mongoose
+- MONGOOSE
 ## Creators
 - SUJIT KUMAR
 - SANJAY KASHAYAP
