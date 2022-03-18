@@ -14,7 +14,7 @@ Adidas is a German multinational corporation, founded and headquartered in Herzo
 
 ## Adidas Clone
 
-### [Deployment Link](https://m-sehrawat.github.io/Adidas-Website-Clone/Project%20Files/adidas_home_page.html)
+### [Deployment Link](https://project-adidas.vercel.app/)
 
 ### Home Page
 
@@ -44,6 +44,7 @@ To run, follow these steps:
 - REACT JS
 - EXPRESS
 - MONGODB
+- mongoose
 ## Creators
 - SUJIT KUMAR
 - SANJAY KASHAYAP
